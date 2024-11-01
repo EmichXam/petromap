@@ -1,0 +1,1404 @@
+{
+  "hospitals": [
+    {
+      "name": "Spasmed",
+      "coordinates": {
+        "lat": 54.8746818,
+        "lng": 69.1420302
+      },
+      "address": "Mira St 119, Petropavlovsk 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 9:00 AM – 8:00 PM",
+        "Tuesday: 9:00 AM – 8:00 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 1:00 PM",
+        "Sunday: Closed"
+      ],
+      "contacts": "8 (7152) 37 35 35"
+    },
+    {
+      "name": "Центр здоровых стоп и ногтей PODOLOGIA",
+      "coordinates": {
+        "lat": 54.8707886,
+        "lng": 69.1464364
+      },
+      "address": "Jambyl Jabayev Street 167, Petropavlovsk 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "8 (705) 559 9222"
+    },
+    {
+      "name": "Detskaya Bol'nitsa",
+      "coordinates": {
+        "lat": 54.8585837,
+        "lng": 69.164761
+      },
+      "address": "Ulitsa Satpayeva 34-36, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "Ayna Koz",
+      "coordinates": {
+        "lat": 54.9027782,
+        "lng": 69.14769799999999
+      },
+      "address": "Mira St 229, Petropavlovsk 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ],
+      "contacts": "8 (7152) 51 19 37"
+    },
+    {
+      "name": "2Gpk Bol'nitsa",
+      "coordinates": {
+        "lat": 54.8705632,
+        "lng": 69.15218089999999
+      },
+      "address": "Ulitsa Chaykovskogo 18, Petropavl 150004, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "Oblastnoy Protivotuberkuleznyy Dispanser",
+      "coordinates": {
+        "lat": 54.9168125,
+        "lng": 69.1552378
+      },
+      "address": "W584+P3H, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "8 (7152) 53 81 16"
+    },
+    {
+      "name": "Gospital' Dvd",
+      "coordinates": {
+        "lat": 54.86689690000001,
+        "lng": 69.15473039999999
+      },
+      "address": "Алматы көшесі 38, Petropavlovsk 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "8 (7152) 39 42 77"
+    },
+    {
+      "name": "Boytsovskiy Klub Imeni Patrika Beytmena",
+      "coordinates": {
+        "lat": 54.8658745,
+        "lng": 69.1535418
+      },
+      "address": "Абай Көшесі 100, Petropavlovsk 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "Sanatoriy-Profilaktoriy \"Transsib\"",
+      "coordinates": {
+        "lat": 54.8590146,
+        "lng": 69.1751508
+      },
+      "address": "V55G+J32, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "8 (777) 923 9139"
+    },
+    {
+      "name": "Med ELIT",
+      "coordinates": {
+        "lat": 54.8624039,
+        "lng": 69.1529378
+      },
+      "address": "Ulitsa Internatsional'naya 90, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 8:00 PM",
+        "Sunday: 8:00 AM – 8:00 PM"
+      ],
+      "contacts": "8 (701) 800 8667"
+    },
+    {
+      "name": "Kardiologicheskiy Tsentr",
+      "coordinates": {
+        "lat": 54.8689641,
+        "lng": 69.1584635
+      },
+      "address": "Ulitsa P. Vasil'yeva 123, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "contacts": "8 (7152) 33 04 68"
+    },
+    {
+      "name": "Yesil' Diagnostik",
+      "coordinates": {
+        "lat": 54.89582679999999,
+        "lng": 69.138268
+      },
+      "address": "улица имени Тауфика Мухамед-Рахимова 139, Petropavlovsk 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 9:00 AM – 8:00 PM",
+        "Tuesday: 9:00 AM – 8:00 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 2:00 PM",
+        "Sunday: Closed"
+      ],
+      "contacts": "8 (7152) 51 57 95"
+    },
+    {
+      "name": "Sonar-Kardio Meditsinskiy Tsentr",
+      "coordinates": {
+        "lat": 54.8592501,
+        "lng": 69.1641217
+      },
+      "address": "Ulitsa Satpayeva 34, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ],
+      "contacts": "8 (7152) 37 50 05"
+    },
+    {
+      "name": "Grudnichkovoye Plavaniye \"Bul' Bul'\"",
+      "coordinates": {
+        "lat": 54.8663554,
+        "lng": 69.1566162
+      },
+      "address": "Астана көшесі 39, Petropavlovsk 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ],
+      "contacts": "8 (771) 029 8881"
+    },
+    {
+      "name": "Skof Rgp Na Pkhv \"Natsional'nyy Nauchnyy Tsentr Razvitiya Zdravookhraneniya Imeni Salidat Kairbekovoy\" Mz Rk",
+      "coordinates": {
+        "lat": 54.8581497,
+        "lng": 69.15536800000001
+      },
+      "address": "Ulitsa Satpayeva 3, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "contacts": "8 (7152) 33 39 81"
+    },
+    {
+      "name": "Filial 2 Gorodskoy Polikliniki",
+      "coordinates": {
+        "lat": 54.871761,
+        "lng": 69.209324
+      },
+      "address": "V6C5+PP4, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "contacts": "8 (702) 832 7599"
+    },
+    {
+      "name": "КГП на ПХВ «Областной кожно-венерологический диспансер» КГУ «УЗ акимата СКО»",
+      "coordinates": {
+        "lat": 54.862549,
+        "lng": 69.15299929999999
+      },
+      "address": "Ulitsa Internatsional'naya 90, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 8:00 AM – 7:00 PM",
+        "Tuesday: 8:00 AM – 7:00 PM",
+        "Wednesday: 8:00 AM – 7:00 PM",
+        "Thursday: 8:00 AM – 7:00 PM",
+        "Friday: 8:00 AM – 7:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "Медицинский центр \"ДоброМед\"",
+      "coordinates": {
+        "lat": 54.8762396,
+        "lng": 69.124534
+      },
+      "address": "Ulitsa Teatral'naya 52, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 8:30 AM – 7:00 PM",
+        "Tuesday: 8:30 AM – 7:00 PM",
+        "Wednesday: 8:30 AM – 7:00 PM",
+        "Thursday: 8:30 AM – 7:00 PM",
+        "Friday: 8:30 AM – 7:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "contacts": "8 (7152) 46 36 51"
+    },
+    {
+      "name": "Vtoraya Gorodskaya Poliklinika",
+      "coordinates": {
+        "lat": 54.86870869999999,
+        "lng": 69.15804229999999
+      },
+      "address": "V595+F6M, Астана көшесі, Petropavlovsk 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ],
+      "contacts": "8 (7152) 50 46 46"
+    },
+    {
+      "name": "Mitraliya",
+      "coordinates": {
+        "lat": 54.8648737,
+        "lng": 69.1201464
+      },
+      "address": "Ulitsa Kazakhstanskoy Pravdy 33, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 1:00 PM",
+        "Sunday: Closed"
+      ],
+      "contacts": "8 (7152) 63 01 75"
+    }
+  ],
+  "clinics": [
+    {
+      "name": "Valeriy Pandzhakidze",
+      "coordinates": {
+        "lat": 54.9027441,
+        "lng": 69.1509224
+      },
+      "address": "W532+39V, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 8:00 AM – 4:45 PM",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 8:00 AM – 4:45 PM",
+        "Friday: Closed",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "contacts": "8 (771) 416 6991"
+    },
+    {
+      "name": "Profilaktoriy",
+      "coordinates": {
+        "lat": 54.85874469999999,
+        "lng": 69.1732785
+      },
+      "address": "Ulitsa Satpayeva 37, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "Konsilium",
+      "coordinates": {
+        "lat": 54.87648189999999,
+        "lng": 69.12935279999999
+      },
+      "address": "Ulitsa Internatsional'naya 16, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "Nevropatolog Makina",
+      "coordinates": {
+        "lat": 54.8720478,
+        "lng": 69.12447449999999
+      },
+      "address": "Ulitsa Pushkina д 57, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "8 (7152) 49 04 41"
+    },
+    {
+      "name": "МДЦ VesNet",
+      "coordinates": {
+        "lat": 54.9097479,
+        "lng": 69.1485551
+      },
+      "address": "W45X+VCV, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 8:30 AM – 8:00 PM",
+        "Tuesday: 8:30 AM – 8:00 PM",
+        "Wednesday: 8:30 AM – 8:00 PM",
+        "Thursday: 8:30 AM – 8:00 PM",
+        "Friday: 8:30 AM – 8:00 PM",
+        "Saturday: 8:30 AM – 4:00 PM",
+        "Sunday: Closed"
+      ],
+      "contacts": "8 (7152) 63 11 03"
+    },
+    {
+      "name": "Vrach Osteopat",
+      "coordinates": {
+        "lat": 54.8617055,
+        "lng": 69.1320534
+      },
+      "address": "Ulitsa Parkovaya 117, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "8 (777) 051 1118"
+    },
+    {
+      "name": "Too Formula Zdorov'ya",
+      "coordinates": {
+        "lat": 54.8578914,
+        "lng": 69.1234873
+      },
+      "address": "V45F+595, Ulitsa Chelyuskina, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 5:00 – 8:00 PM",
+        "Tuesday: 5:00 – 8:00 PM",
+        "Wednesday: 5:00 – 8:00 PM",
+        "Thursday: 5:00 – 8:00 PM",
+        "Friday: 5:00 – 8:00 PM",
+        "Saturday: 10:00 AM – 1:00 PM",
+        "Sunday: Closed"
+      ],
+      "contacts": "8 (7152) 53 44 24"
+    },
+    {
+      "name": "МЕДИЦИНСКИЙ ЦЕНТР \"PRIVATE CLINIC\"",
+      "coordinates": {
+        "lat": 54.8639147,
+        "lng": 69.1689361
+      },
+      "address": "Ulitsa Yu. Medvedeva 43, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "contacts": "8 (777) 038 8282"
+    },
+    {
+      "name": "Stomatologiya Implant Dent",
+      "coordinates": {
+        "lat": 54.8760415,
+        "lng": 69.1319102
+      },
+      "address": "Ulitsa Internatsional'naya 83, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "contacts": "8 (7152) 33 08 77"
+    },
+    {
+      "name": "Sanos",
+      "coordinates": {
+        "lat": 54.86450499999999,
+        "lng": 69.1677775
+      },
+      "address": "Ulitsa Yu. Medvedeva 43, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "contacts": "8 (707) 532 5067"
+    },
+    {
+      "name": "Oftal'mologicheskiy Kabinet Vzglyad",
+      "coordinates": {
+        "lat": 54.87653570000001,
+        "lng": 69.1431226
+      },
+      "address": "Mira St 156, Petropavlovsk 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 10:20 AM – 6:30 PM",
+        "Tuesday: 10:20 AM – 6:30 PM",
+        "Wednesday: 10:20 AM – 6:30 PM",
+        "Thursday: 10:20 AM – 6:30 PM",
+        "Friday: 10:20 AM – 6:30 PM",
+        "Saturday: 10:20 AM – 2:00 PM",
+        "Sunday: Closed"
+      ],
+      "contacts": "8 (7152) 37 36 47"
+    },
+    {
+      "name": "Mitraliya",
+      "coordinates": {
+        "lat": 54.8648737,
+        "lng": 69.1201464
+      },
+      "address": "Ulitsa Kazakhstanskoy Pravdy 33, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 1:00 PM",
+        "Sunday: Closed"
+      ],
+      "contacts": "8 (7152) 63 01 75"
+    },
+    {
+      "name": "Медицинский центр \"ДоброМед\"",
+      "coordinates": {
+        "lat": 54.8762396,
+        "lng": 69.124534
+      },
+      "address": "Ulitsa Teatral'naya 52, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 8:30 AM – 7:00 PM",
+        "Tuesday: 8:30 AM – 7:00 PM",
+        "Wednesday: 8:30 AM – 7:00 PM",
+        "Thursday: 8:30 AM – 7:00 PM",
+        "Friday: 8:30 AM – 7:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "contacts": "8 (7152) 46 36 51"
+    },
+    {
+      "name": "Osteopat Osteoplastika Kineziolog Manual'naya Terapiya, :obucheniye",
+      "coordinates": {
+        "lat": 54.86698639999999,
+        "lng": 69.1380707
+      },
+      "address": "маг Евразия, Jambyl Jabayev Street 172/1, Petropavlovsk 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 10:00 AM – 12:00 AM",
+        "Tuesday: 12:00 – 8:00 AM, 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 12:00 AM",
+        "Sunday: 12:00 – 8:00 AM"
+      ],
+      "contacts": "8 (701) 448 1445"
+    },
+    {
+      "name": "Mitraliya",
+      "coordinates": {
+        "lat": 54.859798,
+        "lng": 69.1239806
+      },
+      "address": "Ulitsa Mayakovskogo 96, Petropavl 150007, Kazakhstan",
+      "opening_hours": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ],
+      "contacts": "8 (7152) 63 01 75"
+    }
+  ],
+  "gyms": [
+    {
+      "name": "Homelander`s house",
+      "coordinates": {
+        "lat": 54.87064590000001,
+        "lng": 69.1988166
+      },
+      "address": "V5CX+7G4, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "Zanyatiya Po Yoge",
+      "coordinates": {
+        "lat": 54.86398579999999,
+        "lng": 69.1365046
+      },
+      "address": "Ulitsa Parkovaya 141, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "Ledi Fitnes",
+      "coordinates": {
+        "lat": 54.8634396,
+        "lng": 69.15589659999999
+      },
+      "address": "V574+99C, Ulitsa Gogolya, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "Pilates Studiya Yulii Keler",
+      "coordinates": {
+        "lat": 54.8718019,
+        "lng": 69.1388564
+      },
+      "address": "Ulitsa Amangel'dy 163, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "8 (705) 338 0288"
+    },
+    {
+      "name": "Преподаватель йоги в Петропавловске || Семинары по йоге",
+      "coordinates": {
+        "lat": 54.89086640000001,
+        "lng": 69.14823059999999
+      },
+      "address": "Мусрепова 18/Б, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 7:00 – 8:30 PM",
+        "Tuesday: Closed",
+        "Wednesday: 7:00 – 8:30 PM",
+        "Thursday: Closed",
+        "Friday: 7:00 – 8:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "contacts": "8 (777) 923 1241"
+    },
+    {
+      "name": "Pole",
+      "coordinates": {
+        "lat": 54.8921556,
+        "lng": 69.1480567
+      },
+      "address": "Ulitsa Ibraya Altynsarina 169, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "Home kipper",
+      "coordinates": {
+        "lat": 54.8588629,
+        "lng": 69.1655509
+      },
+      "address": "Ulitsa Satpayeva 27, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "Fitness Club Zver",
+      "coordinates": {
+        "lat": 54.8935407,
+        "lng": 69.14454479999999
+      },
+      "address": "Mira St 252, Petropavlovsk 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "SKIF HOTEL&SPA",
+      "coordinates": {
+        "lat": 54.862374,
+        "lng": 69.132324
+      },
+      "address": "Ulitsa Parkovaya 118, Petropavl 150010, Kazakhstan",
+      "opening_hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "contacts": "8 (777) 536 3366"
+    },
+    {
+      "name": "Sportzal 1",
+      "coordinates": {
+        "lat": 54.87845129999999,
+        "lng": 69.1337786
+      },
+      "address": "V4HM+9GJ, Ulitsa Pushkina, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 8:30 AM – 10:00 PM",
+        "Tuesday: 8:30 AM – 10:00 PM",
+        "Wednesday: 8:30 AM – 10:00 PM",
+        "Thursday: 8:30 AM – 10:00 PM",
+        "Friday: 8:30 AM – 10:00 PM",
+        "Saturday: 8:30 AM – 10:00 PM",
+        "Sunday: 10:00 AM – 8:00 PM"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "Klub Taekvondo \"Koro\"",
+      "coordinates": {
+        "lat": 54.89372669999999,
+        "lng": 69.1444831
+      },
+      "address": "Mira St 252, Petropavlovsk 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "Trenazhernyy Zal",
+      "coordinates": {
+        "lat": 54.8636178,
+        "lng": 69.1408907
+      },
+      "address": "Ulitsa Konstitutsii Kazakhstana 54, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 9:00 AM – 10:00 PM",
+        "Tuesday: 9:00 AM – 10:00 PM",
+        "Wednesday: 9:00 AM – 10:00 PM",
+        "Thursday: 9:00 AM – 10:00 PM",
+        "Friday: 9:00 AM – 10:00 PM",
+        "Saturday: 9:00 AM – 10:00 PM",
+        "Sunday: 10:00 AM – 7:00 PM"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "Тренажерный зал \"Fitness land \"",
+      "coordinates": {
+        "lat": 54.8997012,
+        "lng": 69.1473451
+      },
+      "address": "Mira St 219, Petropavlovsk 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 10:00 AM – 10:00 PM",
+        "Tuesday: 10:00 AM – 10:00 PM",
+        "Wednesday: 10:00 AM – 10:00 PM",
+        "Thursday: 10:00 AM – 10:00 PM",
+        "Friday: 10:00 AM – 10:00 PM",
+        "Saturday: 10:00 AM – 10:00 PM",
+        "Sunday: 10:00 AM – 10:00 PM"
+      ],
+      "contacts": "8 (7152) 51 18 28"
+    },
+    {
+      "name": "Fitness Club \"Neptun\"",
+      "coordinates": {
+        "lat": 54.8652544,
+        "lng": 69.16769599999999
+      },
+      "address": "Ulitsa Medvedeva 41, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 8:00 AM – 11:00 PM",
+        "Tuesday: 8:00 AM – 11:00 PM",
+        "Wednesday: 8:00 AM – 11:00 PM",
+        "Thursday: 8:00 AM – 11:00 PM",
+        "Friday: 8:00 AM – 11:00 PM",
+        "Saturday: 8:00 AM – 11:00 PM",
+        "Sunday: 8:00 AM – 8:00 PM"
+      ],
+      "contacts": "8 (7152) 33 91 99"
+    },
+    {
+      "name": "Lider",
+      "coordinates": {
+        "lat": 54.866496,
+        "lng": 69.150331
+      },
+      "address": "V582+H4W, Абай Көшесі, Petropavlovsk 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 9:00 AM – 9:30 PM",
+        "Tuesday: 9:00 AM – 9:30 PM",
+        "Wednesday: 9:00 AM – 9:30 PM",
+        "Thursday: 9:00 AM – 9:30 PM",
+        "Friday: 9:00 AM – 9:30 PM",
+        "Saturday: 9:00 AM – 9:30 PM",
+        "Sunday: 10:00 AM – 8:00 PM"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "Sonar-Kardio Meditsinskiy Tsentr",
+      "coordinates": {
+        "lat": 54.8592501,
+        "lng": 69.1641217
+      },
+      "address": "Ulitsa Satpayeva 34, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ],
+      "contacts": "8 (7152) 37 50 05"
+    },
+    {
+      "name": "ICON Gym",
+      "coordinates": {
+        "lat": 54.868331,
+        "lng": 69.14669719999999
+      },
+      "address": "Ulitsa Auezova 174, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 8:00 AM – 11:00 PM",
+        "Tuesday: 8:00 AM – 11:00 PM",
+        "Wednesday: 8:00 AM – 11:00 PM",
+        "Thursday: 8:00 AM – 11:00 PM",
+        "Friday: 8:00 AM – 11:00 PM",
+        "Saturday: 8:00 AM – 11:00 PM",
+        "Sunday: 8:00 AM – 11:00 PM"
+      ],
+      "contacts": "8 (777) 924 2360"
+    },
+    {
+      "name": "Trenazhernyy Zal \"Avangard\"",
+      "coordinates": {
+        "lat": 54.8721934,
+        "lng": 69.14975690000001
+      },
+      "address": "Ulitsa Chaykovskogo 2, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 8:00 AM – 10:00 PM",
+        "Tuesday: 8:00 AM – 10:00 PM",
+        "Wednesday: 8:00 AM – 10:00 PM",
+        "Thursday: 8:00 AM – 10:00 PM",
+        "Friday: 8:00 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 10:00 PM",
+        "Sunday: Closed"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "Shkola Boksa Im. K. Safina",
+      "coordinates": {
+        "lat": 54.8638171,
+        "lng": 69.1364188
+      },
+      "address": "Ulitsa Parkovaya 141, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 8:00 AM – 9:45 PM",
+        "Tuesday: 8:00 AM – 9:45 PM",
+        "Wednesday: 8:00 AM – 9:45 PM",
+        "Thursday: 8:00 AM – 9:45 PM",
+        "Friday: 8:00 AM – 9:45 PM",
+        "Saturday: 8:00 AM – 8:45 PM",
+        "Sunday: 8:00 AM – 7:00 PM"
+      ],
+      "contacts": "8 (702) 965 5599"
+    },
+    {
+      "name": "Brooklyn Dance School",
+      "coordinates": {
+        "lat": 54.86499449999999,
+        "lng": 69.1509688
+      },
+      "address": "Ulitsa Bostandykskaya 70, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 9:00 AM – 10:00 PM",
+        "Tuesday: 9:00 AM – 10:00 PM",
+        "Wednesday: 9:00 AM – 10:00 PM",
+        "Thursday: 9:00 AM – 10:00 PM",
+        "Friday: 9:00 AM – 10:00 PM",
+        "Saturday: 9:00 AM – 10:00 PM",
+        "Sunday: 10:00 AM – 8:00 PM"
+      ],
+      "contacts": "8 (777) 953 8899"
+    }
+  ],
+  "parkings": [
+    {
+      "name": "Garazhnyy Kompleks \"Druzhba\"",
+      "coordinates": {
+        "lat": 54.87117120000001,
+        "lng": 69.1773542
+      },
+      "address": "V5CG+984, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "Avtomobil'naya Stoyanka",
+      "coordinates": {
+        "lat": 54.8668301,
+        "lng": 69.12759199999999
+      },
+      "address": "V48H+P2P, Mira St, Petropavlovsk 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "Avtotsentr Astek",
+      "coordinates": {
+        "lat": 54.87180540000001,
+        "lng": 69.1600642
+      },
+      "address": "V5C6+P2G, Ulitsa Zavodskaya, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "Garazhi \"Magistral'\"",
+      "coordinates": {
+        "lat": 54.8552867,
+        "lng": 69.1656984
+      },
+      "address": "V548+478, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "Pyatak",
+      "coordinates": {
+        "lat": 54.9051456,
+        "lng": 69.1203027
+      },
+      "address": "Khimenko St 2, Petropavlovsk 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "Avtostoyanka",
+      "coordinates": {
+        "lat": 54.87467299999999,
+        "lng": 69.15481869999999
+      },
+      "address": "V5F3+VW8, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "Dzhambulat Mag",
+      "coordinates": {
+        "lat": 54.8615009,
+        "lng": 69.16054079999999
+      },
+      "address": "Абай Көшесі 120, Petropavlovsk 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "Okhranyayemaya Stoyanka",
+      "coordinates": {
+        "lat": 54.8712628,
+        "lng": 69.1388166
+      },
+      "address": "Ulitsa Bostandykskaya 17, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "Avtomobil'naya Stoyanka",
+      "coordinates": {
+        "lat": 54.86485,
+        "lng": 69.135796
+      },
+      "address": "V47P+W8M, Ulitsa Konstitutsii Kazakhstana, Petropavl 150010, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "Avtostoyanka",
+      "coordinates": {
+        "lat": 54.8934254,
+        "lng": 69.1443014
+      },
+      "address": "V4VV+9PF, Ulitsa Ayyrtauskaya, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "Avtostoyanka",
+      "coordinates": {
+        "lat": 54.8819683,
+        "lng": 69.1441217
+      },
+      "address": "V4JV+QJQ, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "Stoyanka Na Benzostroye",
+      "coordinates": {
+        "lat": 54.871841,
+        "lng": 69.2050695
+      },
+      "address": "V6C4+P2P, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "Avtostoyanka",
+      "coordinates": {
+        "lat": 54.9096775,
+        "lng": 69.1399666
+      },
+      "address": "W45Q+VXG, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "PARKING всех видов транспорта. Ночной, тёплый бокс.",
+      "coordinates": {
+        "lat": 54.9093691,
+        "lng": 69.1568817
+      },
+      "address": "Ulitsa Bolatbayeva 17, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "TQS / СТО",
+      "coordinates": {
+        "lat": 54.8568773,
+        "lng": 69.1312575
+      },
+      "address": "Ulitsa Partizanskaya 181, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: 8:00 AM – 6:00 PM",
+        "Sunday: 8:00 AM – 3:00 PM"
+      ],
+      "contacts": "8 (705) 172 8672"
+    },
+    {
+      "name": "Avtostoyanka",
+      "coordinates": {
+        "lat": 54.8724454,
+        "lng": 69.1460797
+      },
+      "address": "V4CW+XCG, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "Нет информации"
+    }
+  ],
+  "recycling_points": [
+    {
+      "name": "Rabochiy Poselok",
+      "coordinates": {
+        "lat": 54.8473182,
+        "lng": 69.186582
+      },
+      "address": "Rabochiy Poselok, 150000 Petropavl, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "Shaxerezada",
+      "coordinates": {
+        "lat": 54.864424,
+        "lng": 69.139449
+      },
+      "address": "квартира 62, Ulitsa Auezova дом 150, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "8 (705) 453 7736"
+    },
+    {
+      "name": "Хостел North",
+      "coordinates": {
+        "lat": 54.8894895,
+        "lng": 69.1717968
+      },
+      "address": "Мусрепова 18 б Кирпичный двухэтажный, дом, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "8 (700) 962 2057"
+    },
+    {
+      "name": "Petropavl",
+      "coordinates": {
+        "lat": 54.8732209,
+        "lng": 69.1505478
+      },
+      "address": "150000 Petropavl, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "Нет информации"
+    },
+    {
+      "name": "Гостиничная компания Мир квартир",
+      "coordinates": {
+        "lat": 54.864424,
+        "lng": 69.139449
+      },
+      "address": "квартира 62, Ulitsa Auezova дом 150, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "8 (705) 453 7736"
+    },
+    {
+      "name": "Mini Hotel Zam-Zam",
+      "coordinates": {
+        "lat": 54.8647873,
+        "lng": 69.1230594
+      },
+      "address": "ulitsa Ie 49 ZhK Zam Zam, АСТАНА 010000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "8 (707) 520 5109"
+    },
+    {
+      "name": "Avantazh Veb-Studiya - Razrabotka Saytov Professional'no.",
+      "coordinates": {
+        "lat": 54.8844103,
+        "lng": 69.1441494
+      },
+      "address": "Shazhymbayev av., 10, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "contacts": "8 (7152) 63 00 46"
+    },
+    {
+      "name": "Greenwich Hotel",
+      "coordinates": {
+        "lat": 54.8737976,
+        "lng": 69.12401369999999
+      },
+      "address": "Ulitsa Konstitutsii Kazakhstana 1А, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "contacts": "8 (7152) 50 40 40"
+    },
+    {
+      "name": "Filial Too \"T.b.m.-Kazakhstan\" V G. Petropavl",
+      "coordinates": {
+        "lat": 54.8894895,
+        "lng": 69.1717968
+      },
+      "address": "ул. Г, Gabit Musirepov Street 20 \"К, Petropavl 150009, Kazakhstan",
+      "opening_hours": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 5:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "contacts": "8 (7152) 63 01 30"
+    },
+    {
+      "name": "Алтын адам кафесі",
+      "coordinates": {
+        "lat": 54.857765,
+        "lng": 69.1450471
+      },
+      "address": "Ulitsa Karima Sutyusheva 70б, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "contacts": "8 (7152) 33 32 22"
+    },
+    {
+      "name": "Altyn Adam Hotel",
+      "coordinates": {
+        "lat": 54.85771169999999,
+        "lng": 69.1450472
+      },
+      "address": "Ulitsa Karima Sutyusheva 70б, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "contacts": "8 (7152) 39 86 61"
+    },
+    {
+      "name": "SKIF HOTEL&SPA",
+      "coordinates": {
+        "lat": 54.862374,
+        "lng": 69.132324
+      },
+      "address": "Ulitsa Parkovaya 118, Petropavl 150010, Kazakhstan",
+      "opening_hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "contacts": "8 (777) 536 3366"
+    },
+    {
+      "name": "Altyn Orda",
+      "coordinates": {
+        "lat": 54.877559,
+        "lng": 69.1620665
+      },
+      "address": "Ulitsa Auezova 260а, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: Closed",
+        "Tuesday: 10:00 AM – 12:00 AM",
+        "Wednesday: 10:00 AM – 12:00 AM",
+        "Thursday: 10:00 AM – 12:00 AM",
+        "Friday: 10:00 AM – 12:00 AM",
+        "Saturday: 10:00 AM – 12:00 AM",
+        "Sunday: 10:00 AM – 12:00 AM"
+      ],
+      "contacts": "8 (7152) 50 10 50"
+    },
+    {
+      "name": "abdi",
+      "coordinates": {
+        "lat": 54.8718442,
+        "lng": 69.1285626
+      },
+      "address": "Ulitsa Magzhana Zhumabayeva 98, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 9:00 AM – 7:00 PM",
+        "Tuesday: 9:00 AM – 7:00 PM",
+        "Wednesday: 9:00 AM – 7:00 PM",
+        "Thursday: 9:00 AM – 7:00 PM",
+        "Friday: 9:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ],
+      "contacts": "8 (7152) 36 65 91"
+    },
+    {
+      "name": "Hotel Hizhina",
+      "coordinates": {
+        "lat": 54.8588921,
+        "lng": 69.1662013
+      },
+      "address": "Ulitsa Satpayeva 27, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "8 (707) 857 0772"
+    },
+    {
+      "name": "Хостел Уютный дом",
+      "coordinates": {
+        "lat": 54.874298,
+        "lng": 69.1307942
+      },
+      "address": "Ulitsa Sovetskaya 136, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "8 (705) 453 7736"
+    },
+    {
+      "name": "Dvorets Molodozhi",
+      "coordinates": {
+        "lat": 54.86872330000001,
+        "lng": 69.1616714
+      },
+      "address": "V596+FMM, Ulitsa K.kenshinbayeva, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Нет информации"
+      ],
+      "contacts": "8 (7152) 33 34 56"
+    },
+    {
+      "name": "TELEGRAPH INN",
+      "coordinates": {
+        "lat": 54.8594932,
+        "lng": 69.1422195
+      },
+      "address": "Астана көшесі 2, Petropavlovsk 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "contacts": "8 (705) 756 7200"
+    },
+    {
+      "name": "SB JSC Home Credit and Finance Bank",
+      "coordinates": {
+        "lat": 54.86709219999999,
+        "lng": 69.1393387
+      },
+      "address": "Jambyl Jabayev Street д. 139, Petropavlovsk 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 2:00 PM",
+        "Sunday: Closed"
+      ],
+      "contacts": "8 (7272) 44 54 77"
+    },
+    {
+      "name": "Pyramida",
+      "coordinates": {
+        "lat": 54.8604577,
+        "lng": 69.1653437
+      },
+      "address": "Ulitsa Batyr Bayana 11, Petropavl 150000, Kazakhstan",
+      "opening_hours": [
+        "Monday: 8:00 AM – 12:00 AM",
+        "Tuesday: 8:00 AM – 12:00 AM",
+        "Wednesday: 8:00 AM – 12:00 AM",
+        "Thursday: 8:00 AM – 12:00 AM",
+        "Friday: 8:00 AM – 12:00 AM",
+        "Saturday: 8:00 AM – 12:00 AM",
+        "Sunday: 8:00 AM – 12:00 AM"
+      ],
+      "contacts": "8 (7152) 33 55 04"
+    }
+  ]
+}
