@@ -2,38 +2,44 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Карта Петропавловска с метками</title>
     <script src="https://api-maps.yandex.ru/2.1/?apikey=54ad7a51-d959-4187-8d2f-ffca32503f81&lang=ru_RU" type="text/javascript"></script>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
-        .no-select {
-            user-select: none;
-        }
         .inactive {
-            opacity: 0.5;
+            opacity: 0.4;
+        }
+        @media (max-width: 640px) {
+            #map-container {
+                height: 80vh;
+            }
         }
     </style>
 </head>
 <body class="bg-gray-100">
 
-    <div class="flex flex-col items-center mx-auto mt-10 w-11/12 max-w-4xl border-2 border-gray-300 rounded-lg shadow-lg overflow-hidden">
-        <div id="map" class="w-full h-96"></div>
-        <div id="legend" class="flex flex-wrap justify-center p-4 bg-gray-50 rounded-lg shadow-md mt-2">
-            <div class="legend-item no-select cursor-pointer p-2 flex items-center m-1 hover:bg-gray-200" onclick="toggleLayer('hospitals', this)">
-                <div class="legend-color w-5 h-5 mr-2 rounded" style="background-color: #ff0000;"></div> Больницы
-            </div>
-            <div class="legend-item no-select cursor-pointer p-2 flex items-center m-1 hover:bg-gray-200" onclick="toggleLayer('clinics', this)">
-                <div class="legend-color w-5 h-5 mr-2 rounded" style="background-color: #0000ff;"></div> Клиники
-            </div>
-            <div class="legend-item no-select cursor-pointer p-2 flex items-center m-1 hover:bg-gray-200" onclick="toggleLayer('gyms', this)">
-                <div class="legend-color w-5 h-5 mr-2 rounded" style="background-color: #008000;"></div> Спортзалы
-            </div>
-            <div class="legend-item no-select cursor-pointer p-2 flex items-center m-1 hover:bg-gray-200" onclick="toggleLayer('parkings', this)">
-                <div class="legend-color w-5 h-5 mr-2 rounded" style="background-color: #ffa500;"></div> Парковки
-            </div>
-            <div class="legend-item no-select cursor-pointer p-2 flex items-center m-1 hover:bg-gray-200" onclick="toggleLayer('recycling_points', this)">
-                <div class="legend-color w-5 h-5 mr-2 rounded" style="background-color: #800080;"></div> Пункты переработки
-            </div>
+    <div class="flex flex-col items-center mx-auto mt-4 w-full max-w-4xl border border-gray-300 rounded-lg shadow-lg">
+        <div id="map-container" class="w-full h-96 sm:h-96">
+            <div id="map" class="w-full h-full"></div>
+        </div>
+        <div id="info-container" class="w-full p-4 bg-white border-b border-gray-300 hidden sm:block"></div>
+        <div id="legend" class="flex flex-wrap justify-center p-2 bg-white border-t border-gray-300">
+            <button class="legend-item p-1 m-1 text-xs flex items-center rounded cursor-pointer active:bg-gray-200" onclick="toggleLayer('hospitals', this)">
+                <span class="w-3 h-3 mr-2 inline-block rounded-full" style="background-color: #ff0000;"></span> Больницы
+            </button>
+            <button class="legend-item p-1 m-1 text-xs flex items-center rounded cursor-pointer active:bg-gray-200" onclick="toggleLayer('clinics', this)">
+                <span class="w-3 h-3 mr-2 inline-block rounded-full" style="background-color: #0000ff;"></span> Клиники
+            </button>
+            <button class="legend-item p-1 m-1 text-xs flex items-center rounded cursor-pointer active:bg-gray-200" onclick="toggleLayer('gyms', this)">
+                <span class="w-3 h-3 mr-2 inline-block rounded-full" style="background-color: #008000;"></span> Спортзалы
+            </button>
+            <button class="legend-item p-1 m-1 text-xs flex items-center rounded cursor-pointer active:bg-gray-200" onclick="toggleLayer('parkings', this)">
+                <span class="w-3 h-3 mr-2 inline-block rounded-full" style="background-color: #ffa500;"></span> Парковки
+            </button>
+            <button class="legend-item p-1 m-1 text-xs flex items-center rounded cursor-pointer active:bg-gray-200" onclick="toggleLayer('recycling_points', this)">
+                <span class="w-3 h-3 mr-2 inline-block rounded-full" style="background-color: #800080;"></span> Пункты переработки
+            </button>
         </div>
     </div>
 
@@ -64,11 +70,9 @@
                 controls: ['zoomControl']
             });
 
-            // Fetch data from external JSON file
             fetch('data.json')
                 .then(response => response.json())
                 .then(data => {
-                    // Add markers to map
                     for (const category in data) {
                         data[category].forEach(item => {
                             const iconColor = category === 'hospitals' ? '#ff0000' :
@@ -80,18 +84,21 @@
                             const placemark = new ymaps.Placemark(
                                 [item.coordinates.lat, item.coordinates.lng],
                                 {
-                                    balloonContent: `
-                                        ${item.name}<br>
-                                        Адрес: ${item.address}<br>
-                                        Часы работы: ${item.opening_hours.join(', ')}<br>
-                                        Контакты: ${isValidPhone(item.contacts) ? `<a href="tel:${item.contacts}">${item.contacts}</a>` : 'Нет данных'}
-                                    `
+                                    name: item.name,
+                                    address: item.address,
+                                    opening_hours: item.opening_hours,
+                                    contacts: item.contacts
                                 },
                                 {
                                     preset: 'islands#circleIcon',
                                     iconColor: iconColor
                                 }
                             );
+
+                            placemark.events.add('click', function (e) {
+                                const properties = e.get('target').properties.getAll();
+                                displayInfo(properties);
+                            });
 
                             layers[category].push(placemark);
                             map.geoObjects.add(placemark);
@@ -117,8 +124,18 @@
             }
         }
 
+        function displayInfo(properties) {
+            const infoContainer = document.getElementById('info-container');
+            infoContainer.innerHTML = `
+                <h3 class="text-lg font-semibold">${properties.name}</h3>
+                <p><strong>Адрес:</strong> ${properties.address}</p>
+                <p><strong>Часы работы:</strong> ${properties.opening_hours.join(', ')}</p>
+                <p><strong>Контакты:</strong> ${isValidPhone(properties.contacts) ? `<a href="tel:${properties.contacts}">${properties.contacts}</a>` : 'Нет данных'}</p>
+            `;
+            infoContainer.classList.remove('hidden');
+        }
+
         function isValidPhone(phone) {
-            // Simple regex for validating phone numbers (e.g., 1234567890, +1234567890)
             const phoneRegex = /^[+]?[\d\s()-]+$/;
             return phoneRegex.test(phone);
         }
