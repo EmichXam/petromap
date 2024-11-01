@@ -52,7 +52,7 @@
             parkings: [],
             recycling_points: []
         };
-
+    
         let visibility = {
             hospitals: true,
             clinics: true,
@@ -60,16 +60,16 @@
             parkings: true,
             recycling_points: true
         };
-
+    
         ymaps.ready(init);
-
+    
         function init() {
             map = new ymaps.Map("map", {
                 center: [54.872222, 69.1425],
                 zoom: 13,
                 controls: ['zoomControl']
             });
-
+    
             fetch('data.json')
                 .then(response => response.json())
                 .then(data => {
@@ -80,7 +80,7 @@
                                               category === 'gyms' ? '#008000' :
                                               category === 'parkings' ? '#ffa500' :
                                               '#800080';
-
+    
                             const placemark = new ymaps.Placemark(
                                 [item.coordinates.lat, item.coordinates.lng],
                                 {
@@ -94,23 +94,25 @@
                                     iconColor: iconColor
                                 }
                             );
-
+    
                             placemark.events.add('click', function (e) {
                                 const properties = e.get('target').properties.getAll();
                                 displayInfo(properties);
                             });
-
+    
                             layers[category].push(placemark);
                             map.geoObjects.add(placemark);
                         });
                     }
                 })
                 .catch(error => console.error('Error loading JSON data:', error));
+    
+            addUserLocationMarker();
         }
-
+    
         function toggleLayer(category, element) {
             visibility[category] = !visibility[category];
-
+    
             if (visibility[category]) {
                 layers[category].forEach(placemark => {
                     map.geoObjects.add(placemark);
@@ -123,7 +125,7 @@
                 element.classList.add('inactive');
             }
         }
-
+    
         function displayInfo(properties) {
             const infoContainer = document.getElementById('info-container');
             infoContainer.innerHTML = `
@@ -134,11 +136,39 @@
             `;
             infoContainer.classList.remove('hidden');
         }
-
+    
         function isValidPhone(phone) {
             const phoneRegex = /^[+]?[\d\s()-]+$/;
             return phoneRegex.test(phone);
         }
+    
+        function addUserLocationMarker() {
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(position => {
+                    const userCoords = [position.coords.latitude, position.coords.longitude];
+                    const userPlacemark = new ymaps.Placemark(
+                        userCoords,
+                        { hintContent: "Это вы" },
+                        {
+                            preset: 'islands#blueCircleDotIconWithCaption',
+                            iconCaption: "Вы здесь"
+                        }
+                    );
+    
+                    userPlacemark.events.add('click', function () {
+                        alert("Это вы");
+                    });
+    
+                    map.geoObjects.add(userPlacemark);
+                    map.setCenter(userCoords, 13);
+                }, error => {
+                    console.error("Ошибка получения геолокации пользователя:", error);
+                });
+            } else {
+                console.warn("Геолокация не поддерживается этим браузером.");
+            }
+        }
     </script>
+    
 </body>
 </html>
