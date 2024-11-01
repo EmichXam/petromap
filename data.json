@@ -1,1404 +1,1404 @@
 {
-  "hospitals": [
-      {
-          "name": "Спасмед",
-          "coordinates": {
-              "lat": 54.8746818,
-              "lng": 69.1420302
-          },
-          "address": "Мира Ст 119, Петропавловск 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 9:00 AM – 8:00 PM",
-              "Tuesday: 9:00 AM – 8:00 PM",
-              "Wednesday: 9:00 AM – 8:00 PM",
-              "Thursday: 9:00 AM – 8:00 PM",
-              "Friday: 9:00 AM – 8:00 PM",
-              "Saturday: 9:00 AM – 1:00 PM",
-              "Sunday: Closed"
-          ],
-          "contacts": "8 (7152) 37 35 35"
-      },
-      {
-          "name": "Центр здоровых стоп и ногтей ПОДОЛОГИА",
-          "coordinates": {
-              "lat": 54.8707886,
-              "lng": 69.1464364
-          },
-          "address": "Ямбыл Ябаыев Стреет 167, Петропавловск 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "8 (705) 559 9222"
-      },
-      {
-          "name": "Децкаыа БолЬница",
-          "coordinates": {
-              "lat": 54.8585837,
-              "lng": 69.164761
-          },
-          "address": "Улица Сатпаыева 34-36, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "Аына Коз",
-          "coordinates": {
-              "lat": 54.9027782,
-              "lng": 69.14769799999999
-          },
-          "address": "Мира Ст 229, Петропавловск 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 9:00 AM – 6:00 PM",
-              "Tuesday: 9:00 AM – 6:00 PM",
-              "Wednesday: 9:00 AM – 6:00 PM",
-              "Thursday: 9:00 AM – 6:00 PM",
-              "Friday: 9:00 AM – 6:00 PM",
-              "Saturday: 9:00 AM – 6:00 PM",
-              "Sunday: Closed"
-          ],
-          "contacts": "8 (7152) 51 19 37"
-      },
-      {
-          "name": "2Гпк БолЬница",
-          "coordinates": {
-              "lat": 54.8705632,
-              "lng": 69.15218089999999
-          },
-          "address": "Улица Чаыковского 18, Петропавл 150004, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "Областноы Противотуберкулезныы Диспансер",
-          "coordinates": {
-              "lat": 54.9168125,
-              "lng": 69.1552378
-          },
-          "address": "W584+П3Х, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "8 (7152) 53 81 16"
-      },
-      {
-          "name": "ГоспиталЬ Двд",
-          "coordinates": {
-              "lat": 54.86689690000001,
-              "lng": 69.15473039999999
-          },
-          "address": "Алматы көшесі 38, Петропавловск 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "8 (7152) 39 42 77"
-      },
-      {
-          "name": "Боыцовскиы Клуб Имени Патрика Беытмена",
-          "coordinates": {
-              "lat": 54.8658745,
-              "lng": 69.1535418
-          },
-          "address": "Абай Көшесі 100, Петропавловск 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "Санаториы-Профилакториы \"Транссиб\"",
-          "coordinates": {
-              "lat": 54.8590146,
-              "lng": 69.1751508
-          },
-          "address": "В55Г+Й32, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "8 (777) 923 9139"
-      },
-      {
-          "name": "Мед ЕЛИТ",
-          "coordinates": {
-              "lat": 54.8624039,
-              "lng": 69.1529378
-          },
-          "address": "Улица ИнтернационалЬнаыа 90, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 8:00 AM – 8:00 PM",
-              "Tuesday: 8:00 AM – 8:00 PM",
-              "Wednesday: 8:00 AM – 8:00 PM",
-              "Thursday: 8:00 AM – 8:00 PM",
-              "Friday: 8:00 AM – 8:00 PM",
-              "Saturday: 8:00 AM – 8:00 PM",
-              "Sunday: 8:00 AM – 8:00 PM"
-          ],
-          "contacts": "8 (701) 800 8667"
-      },
-      {
-          "name": "Кардиологическиы Центр",
-          "coordinates": {
-              "lat": 54.8689641,
-              "lng": 69.1584635
-          },
-          "address": "Улица П. ВасилЬыева 123, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 8:00 AM – 5:00 PM",
-              "Tuesday: 8:00 AM – 5:00 PM",
-              "Wednesday: 8:00 AM – 5:00 PM",
-              "Thursday: 8:00 AM – 5:00 PM",
-              "Friday: 8:00 AM – 5:00 PM",
-              "Saturday: Closed",
-              "Sunday: Closed"
-          ],
-          "contacts": "8 (7152) 33 04 68"
-      },
-      {
-          "name": "ЫесилЬ Диагностик",
-          "coordinates": {
-              "lat": 54.89582679999999,
-              "lng": 69.138268
-          },
-          "address": "улица имени Тауфика Мухамед-Рахимова 139, Петропавловск 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 9:00 AM – 8:00 PM",
-              "Tuesday: 9:00 AM – 8:00 PM",
-              "Wednesday: 9:00 AM – 8:00 PM",
-              "Thursday: 9:00 AM – 8:00 PM",
-              "Friday: 9:00 AM – 8:00 PM",
-              "Saturday: 8:00 AM – 2:00 PM",
-              "Sunday: Closed"
-          ],
-          "contacts": "8 (7152) 51 57 95"
-      },
-      {
-          "name": "Сонар-Кардио Медицинскиы Центр",
-          "coordinates": {
-              "lat": 54.8592501,
-              "lng": 69.1641217
-          },
-          "address": "Улица Сатпаыева 34, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 8:00 AM – 8:00 PM",
-              "Tuesday: 8:00 AM – 8:00 PM",
-              "Wednesday: 8:00 AM – 8:00 PM",
-              "Thursday: 8:00 AM – 8:00 PM",
-              "Friday: 8:00 AM – 8:00 PM",
-              "Saturday: 8:00 AM – 3:00 PM",
-              "Sunday: Closed"
-          ],
-          "contacts": "8 (7152) 37 50 05"
-      },
-      {
-          "name": "Грудничковоые Плаваниые \"БулЬ БулЬ\"",
-          "coordinates": {
-              "lat": 54.8663554,
-              "lng": 69.1566162
-          },
-          "address": "Астана көшесі 39, Петропавловск 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 10:00 AM – 6:00 PM",
-              "Tuesday: 10:00 AM – 6:00 PM",
-              "Wednesday: 10:00 AM – 6:00 PM",
-              "Thursday: 10:00 AM – 6:00 PM",
-              "Friday: 10:00 AM – 6:00 PM",
-              "Saturday: 10:00 AM – 6:00 PM",
-              "Sunday: Closed"
-          ],
-          "contacts": "8 (771) 029 8881"
-      },
-      {
-          "name": "Скоф Ргп На Пкхв \"НационалЬныы Научныы Центр Развитиыа Здравоокхранениыа Имени Салидат Каирбековоы\" Мз Рк",
-          "coordinates": {
-              "lat": 54.8581497,
-              "lng": 69.15536800000001
-          },
-          "address": "Улица Сатпаыева 3, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 9:00 AM – 6:00 PM",
-              "Tuesday: 9:00 AM – 6:00 PM",
-              "Wednesday: 9:00 AM – 6:00 PM",
-              "Thursday: 9:00 AM – 6:00 PM",
-              "Friday: 9:00 AM – 6:00 PM",
-              "Saturday: Closed",
-              "Sunday: Closed"
-          ],
-          "contacts": "8 (7152) 33 39 81"
-      },
-      {
-          "name": "Филиал 2 Городскоы Поликлиники",
-          "coordinates": {
-              "lat": 54.871761,
-              "lng": 69.209324
-          },
-          "address": "В6Ц5+ПП4, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 8:00 AM – 6:00 PM",
-              "Tuesday: 8:00 AM – 6:00 PM",
-              "Wednesday: 8:00 AM – 6:00 PM",
-              "Thursday: 8:00 AM – 6:00 PM",
-              "Friday: 8:00 AM – 6:00 PM",
-              "Saturday: Closed",
-              "Sunday: Closed"
-          ],
-          "contacts": "8 (702) 832 7599"
-      },
-      {
-          "name": "КГП на ПХВ «Областной кожно-венерологический диспансер» КГУ «УЗ акимата СКО»",
-          "coordinates": {
-              "lat": 54.862549,
-              "lng": 69.15299929999999
-          },
-          "address": "Улица ИнтернационалЬнаыа 90, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 8:00 AM – 7:00 PM",
-              "Tuesday: 8:00 AM – 7:00 PM",
-              "Wednesday: 8:00 AM – 7:00 PM",
-              "Thursday: 8:00 AM – 7:00 PM",
-              "Friday: 8:00 AM – 7:00 PM",
-              "Saturday: Closed",
-              "Sunday: Closed"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "Медицинский центр \"ДоброМед\"",
-          "coordinates": {
-              "lat": 54.8762396,
-              "lng": 69.124534
-          },
-          "address": "Улица ТеатралЬнаыа 52, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 8:30 AM – 7:00 PM",
-              "Tuesday: 8:30 AM – 7:00 PM",
-              "Wednesday: 8:30 AM – 7:00 PM",
-              "Thursday: 8:30 AM – 7:00 PM",
-              "Friday: 8:30 AM – 7:00 PM",
-              "Saturday: Closed",
-              "Sunday: Closed"
-          ],
-          "contacts": "8 (7152) 46 36 51"
-      },
-      {
-          "name": "Втораыа Городскаыа Поликлиника",
-          "coordinates": {
-              "lat": 54.86870869999999,
-              "lng": 69.15804229999999
-          },
-          "address": "В595+Ф6М, Астана көшесі, Петропавловск 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 8:00 AM – 8:00 PM",
-              "Tuesday: 8:00 AM – 8:00 PM",
-              "Wednesday: 8:00 AM – 8:00 PM",
-              "Thursday: 8:00 AM – 8:00 PM",
-              "Friday: 8:00 AM – 8:00 PM",
-              "Saturday: 9:00 AM – 3:00 PM",
-              "Sunday: Closed"
-          ],
-          "contacts": "8 (7152) 50 46 46"
-      },
-      {
-          "name": "Митралиыа",
-          "coordinates": {
-              "lat": 54.8648737,
-              "lng": 69.1201464
-          },
-          "address": "Улица Казакхстанскоы Правды 33, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 8:00 AM – 8:00 PM",
-              "Tuesday: 8:00 AM – 8:00 PM",
-              "Wednesday: 8:00 AM – 8:00 PM",
-              "Thursday: 8:00 AM – 8:00 PM",
-              "Friday: 8:00 AM – 8:00 PM",
-              "Saturday: 8:00 AM – 1:00 PM",
-              "Sunday: Closed"
-          ],
-          "contacts": "8 (7152) 63 01 75"
-      }
-  ],
-  "clinics": [
-      {
-          "name": "Валериы Панджакидзе",
-          "coordinates": {
-              "lat": 54.9027441,
-              "lng": 69.1509224
-          },
-          "address": "W532+39В, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 8:00 AM – 4:45 PM",
-              "Tuesday: Closed",
-              "Wednesday: Closed",
-              "Thursday: 8:00 AM – 4:45 PM",
-              "Friday: Closed",
-              "Saturday: Closed",
-              "Sunday: Closed"
-          ],
-          "contacts": "8 (771) 416 6991"
-      },
-      {
-          "name": "Профилакториы",
-          "coordinates": {
-              "lat": 54.85874469999999,
-              "lng": 69.1732785
-          },
-          "address": "Улица Сатпаыева 37, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "Консилиум",
-          "coordinates": {
-              "lat": 54.87648189999999,
-              "lng": 69.12935279999999
-          },
-          "address": "Улица ИнтернационалЬнаыа 16, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "Невропатолог Макина",
-          "coordinates": {
-              "lat": 54.8720478,
-              "lng": 69.12447449999999
-          },
-          "address": "Улица Пушкина д 57, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "8 (7152) 49 04 41"
-      },
-      {
-          "name": "МДЦ ВесНет",
-          "coordinates": {
-              "lat": 54.9097479,
-              "lng": 69.1485551
-          },
-          "address": "W45X+ВЦВ, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 8:30 AM – 8:00 PM",
-              "Tuesday: 8:30 AM – 8:00 PM",
-              "Wednesday: 8:30 AM – 8:00 PM",
-              "Thursday: 8:30 AM – 8:00 PM",
-              "Friday: 8:30 AM – 8:00 PM",
-              "Saturday: 8:30 AM – 4:00 PM",
-              "Sunday: Closed"
-          ],
-          "contacts": "8 (7152) 63 11 03"
-      },
-      {
-          "name": "Врач Остеопат",
-          "coordinates": {
-              "lat": 54.8617055,
-              "lng": 69.1320534
-          },
-          "address": "Улица Парковаыа 117, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "8 (777) 051 1118"
-      },
-      {
-          "name": "Тоо Формула ЗдоровЬыа",
-          "coordinates": {
-              "lat": 54.8578914,
-              "lng": 69.1234873
-          },
-          "address": "В45Ф+595, Улица Челыускина, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 5:00 – 8:00 PM",
-              "Tuesday: 5:00 – 8:00 PM",
-              "Wednesday: 5:00 – 8:00 PM",
-              "Thursday: 5:00 – 8:00 PM",
-              "Friday: 5:00 – 8:00 PM",
-              "Saturday: 10:00 AM – 1:00 PM",
-              "Sunday: Closed"
-          ],
-          "contacts": "8 (7152) 53 44 24"
-      },
-      {
-          "name": "МЕДИЦИНСКИЙ ЦЕНТР \"ПРИВАТЕ ЦЛИНИЦ\"",
-          "coordinates": {
-              "lat": 54.8639147,
-              "lng": 69.1689361
-          },
-          "address": "Улица Ыу. Медведева 43, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 10:00 AM – 5:00 PM",
-              "Tuesday: 10:00 AM – 5:00 PM",
-              "Wednesday: 10:00 AM – 5:00 PM",
-              "Thursday: 10:00 AM – 5:00 PM",
-              "Friday: 10:00 AM – 5:00 PM",
-              "Saturday: Closed",
-              "Sunday: Closed"
-          ],
-          "contacts": "8 (777) 038 8282"
-      },
-      {
-          "name": "Стоматологиыа Имплант Дент",
-          "coordinates": {
-              "lat": 54.8760415,
-              "lng": 69.1319102
-          },
-          "address": "Улица ИнтернационалЬнаыа 83, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 10:00 AM – 6:00 PM",
-              "Tuesday: 10:00 AM – 6:00 PM",
-              "Wednesday: 10:00 AM – 6:00 PM",
-              "Thursday: 10:00 AM – 6:00 PM",
-              "Friday: 10:00 AM – 6:00 PM",
-              "Saturday: Closed",
-              "Sunday: Closed"
-          ],
-          "contacts": "8 (7152) 33 08 77"
-      },
-      {
-          "name": "Санос",
-          "coordinates": {
-              "lat": 54.86450499999999,
-              "lng": 69.1677775
-          },
-          "address": "Улица Ыу. Медведева 43, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 10:00 AM – 6:00 PM",
-              "Tuesday: 10:00 AM – 6:00 PM",
-              "Wednesday: 10:00 AM – 6:00 PM",
-              "Thursday: 10:00 AM – 6:00 PM",
-              "Friday: 10:00 AM – 6:00 PM",
-              "Saturday: Closed",
-              "Sunday: Closed"
-          ],
-          "contacts": "8 (707) 532 5067"
-      },
-      {
-          "name": "ОфталЬмологическиы Кабинет Взглыад",
-          "coordinates": {
-              "lat": 54.87653570000001,
-              "lng": 69.1431226
-          },
-          "address": "Мира Ст 156, Петропавловск 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 10:20 AM – 6:30 PM",
-              "Tuesday: 10:20 AM – 6:30 PM",
-              "Wednesday: 10:20 AM – 6:30 PM",
-              "Thursday: 10:20 AM – 6:30 PM",
-              "Friday: 10:20 AM – 6:30 PM",
-              "Saturday: 10:20 AM – 2:00 PM",
-              "Sunday: Closed"
-          ],
-          "contacts": "8 (7152) 37 36 47"
-      },
-      {
-          "name": "Митралиыа",
-          "coordinates": {
-              "lat": 54.8648737,
-              "lng": 69.1201464
-          },
-          "address": "Улица Казакхстанскоы Правды 33, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 8:00 AM – 8:00 PM",
-              "Tuesday: 8:00 AM – 8:00 PM",
-              "Wednesday: 8:00 AM – 8:00 PM",
-              "Thursday: 8:00 AM – 8:00 PM",
-              "Friday: 8:00 AM – 8:00 PM",
-              "Saturday: 8:00 AM – 1:00 PM",
-              "Sunday: Closed"
-          ],
-          "contacts": "8 (7152) 63 01 75"
-      },
-      {
-          "name": "Медицинский центр \"ДоброМед\"",
-          "coordinates": {
-              "lat": 54.8762396,
-              "lng": 69.124534
-          },
-          "address": "Улица ТеатралЬнаыа 52, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 8:30 AM – 7:00 PM",
-              "Tuesday: 8:30 AM – 7:00 PM",
-              "Wednesday: 8:30 AM – 7:00 PM",
-              "Thursday: 8:30 AM – 7:00 PM",
-              "Friday: 8:30 AM – 7:00 PM",
-              "Saturday: Closed",
-              "Sunday: Closed"
-          ],
-          "contacts": "8 (7152) 46 36 51"
-      },
-      {
-          "name": "Остеопат Остеопластика Кинезиолог МануалЬнаыа Терапиыа, :обучениые",
-          "coordinates": {
-              "lat": 54.86698639999999,
-              "lng": 69.1380707
-          },
-          "address": "маг Евразия, Ямбыл Ябаыев Стреет 172/1, Петропавловск 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 10:00 AM – 12:00 AM",
-              "Tuesday: 12:00 – 8:00 AM, 10:00 AM – 8:00 PM",
-              "Wednesday: 10:00 AM – 8:00 PM",
-              "Thursday: 10:00 AM – 8:00 PM",
-              "Friday: 10:00 AM – 8:00 PM",
-              "Saturday: 9:00 AM – 12:00 AM",
-              "Sunday: 12:00 – 8:00 AM"
-          ],
-          "contacts": "8 (701) 448 1445"
-      },
-      {
-          "name": "Митралиыа",
-          "coordinates": {
-              "lat": 54.859798,
-              "lng": 69.1239806
-          },
-          "address": "Улица Маыаковского 96, Петропавл 150007, Казакхстан",
-          "opening_hours": [
-              "Monday: 8:00 AM – 8:00 PM",
-              "Tuesday: 8:00 AM – 8:00 PM",
-              "Wednesday: 8:00 AM – 8:00 PM",
-              "Thursday: 8:00 AM – 8:00 PM",
-              "Friday: 8:00 AM – 8:00 PM",
-              "Saturday: 8:00 AM – 3:00 PM",
-              "Sunday: Closed"
-          ],
-          "contacts": "8 (7152) 63 01 75"
-      }
-  ],
-  "gyms": [
-      {
-          "name": "Хомеландер`с хоусе",
-          "coordinates": {
-              "lat": 54.87064590000001,
-              "lng": 69.1988166
-          },
-          "address": "В5ЦX+7Г4, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "Заныатиыа По Ыоге",
-          "coordinates": {
-              "lat": 54.86398579999999,
-              "lng": 69.1365046
-          },
-          "address": "Улица Парковаыа 141, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "Леди Фитнес",
-          "coordinates": {
-              "lat": 54.8634396,
-              "lng": 69.15589659999999
-          },
-          "address": "В574+99Ц, Улица Гоголыа, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "Пилатес Студиыа Ыулии Келер",
-          "coordinates": {
-              "lat": 54.8718019,
-              "lng": 69.1388564
-          },
-          "address": "Улица АмангелЬды 163, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "8 (705) 338 0288"
-      },
-      {
-          "name": "Преподаватель йоги в Петропавловске || Семинары по йоге",
-          "coordinates": {
-              "lat": 54.89086640000001,
-              "lng": 69.14823059999999
-          },
-          "address": "Мусрепова 18/Б, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 7:00 – 8:30 PM",
-              "Tuesday: Closed",
-              "Wednesday: 7:00 – 8:30 PM",
-              "Thursday: Closed",
-              "Friday: 7:00 – 8:30 PM",
-              "Saturday: Closed",
-              "Sunday: Closed"
-          ],
-          "contacts": "8 (777) 923 1241"
-      },
-      {
-          "name": "Поле",
-          "coordinates": {
-              "lat": 54.8921556,
-              "lng": 69.1480567
-          },
-          "address": "Улица Ибраыа Алтынсарина 169, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "Хоме киппер",
-          "coordinates": {
-              "lat": 54.8588629,
-              "lng": 69.1655509
-          },
-          "address": "Улица Сатпаыева 27, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "Фитнесс Цлуб Звер",
-          "coordinates": {
-              "lat": 54.8935407,
-              "lng": 69.14454479999999
-          },
-          "address": "Мира Ст 252, Петропавловск 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "СКИФ ХОТЕЛ&СПА",
-          "coordinates": {
-              "lat": 54.862374,
-              "lng": 69.132324
-          },
-          "address": "Улица Парковаыа 118, Петропавл 150010, Казакхстан",
-          "opening_hours": [
-              "Monday: Open 24 hours",
-              "Tuesday: Open 24 hours",
-              "Wednesday: Open 24 hours",
-              "Thursday: Open 24 hours",
-              "Friday: Open 24 hours",
-              "Saturday: Open 24 hours",
-              "Sunday: Open 24 hours"
-          ],
-          "contacts": "8 (777) 536 3366"
-      },
-      {
-          "name": "Спортзал 1",
-          "coordinates": {
-              "lat": 54.87845129999999,
-              "lng": 69.1337786
-          },
-          "address": "В4ХМ+9ГЙ, Улица Пушкина, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 8:30 AM – 10:00 PM",
-              "Tuesday: 8:30 AM – 10:00 PM",
-              "Wednesday: 8:30 AM – 10:00 PM",
-              "Thursday: 8:30 AM – 10:00 PM",
-              "Friday: 8:30 AM – 10:00 PM",
-              "Saturday: 8:30 AM – 10:00 PM",
-              "Sunday: 10:00 AM – 8:00 PM"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "Клуб Таеквондо \"Коро\"",
-          "coordinates": {
-              "lat": 54.89372669999999,
-              "lng": 69.1444831
-          },
-          "address": "Мира Ст 252, Петропавловск 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "Тренажерныы Зал",
-          "coordinates": {
-              "lat": 54.8636178,
-              "lng": 69.1408907
-          },
-          "address": "Улица Конституции Казакхстана 54, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 9:00 AM – 10:00 PM",
-              "Tuesday: 9:00 AM – 10:00 PM",
-              "Wednesday: 9:00 AM – 10:00 PM",
-              "Thursday: 9:00 AM – 10:00 PM",
-              "Friday: 9:00 AM – 10:00 PM",
-              "Saturday: 9:00 AM – 10:00 PM",
-              "Sunday: 10:00 AM – 7:00 PM"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "Тренажерный зал \"Фитнесс ланд \"",
-          "coordinates": {
-              "lat": 54.8997012,
-              "lng": 69.1473451
-          },
-          "address": "Мира Ст 219, Петропавловск 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 10:00 AM – 10:00 PM",
-              "Tuesday: 10:00 AM – 10:00 PM",
-              "Wednesday: 10:00 AM – 10:00 PM",
-              "Thursday: 10:00 AM – 10:00 PM",
-              "Friday: 10:00 AM – 10:00 PM",
-              "Saturday: 10:00 AM – 10:00 PM",
-              "Sunday: 10:00 AM – 10:00 PM"
-          ],
-          "contacts": "8 (7152) 51 18 28"
-      },
-      {
-          "name": "Фитнесс Цлуб \"Нептун\"",
-          "coordinates": {
-              "lat": 54.8652544,
-              "lng": 69.16769599999999
-          },
-          "address": "Улица Медведева 41, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 8:00 AM – 11:00 PM",
-              "Tuesday: 8:00 AM – 11:00 PM",
-              "Wednesday: 8:00 AM – 11:00 PM",
-              "Thursday: 8:00 AM – 11:00 PM",
-              "Friday: 8:00 AM – 11:00 PM",
-              "Saturday: 8:00 AM – 11:00 PM",
-              "Sunday: 8:00 AM – 8:00 PM"
-          ],
-          "contacts": "8 (7152) 33 91 99"
-      },
-      {
-          "name": "Лидер",
-          "coordinates": {
-              "lat": 54.866496,
-              "lng": 69.150331
-          },
-          "address": "В582+Х4W, Абай Көшесі, Петропавловск 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 9:00 AM – 9:30 PM",
-              "Tuesday: 9:00 AM – 9:30 PM",
-              "Wednesday: 9:00 AM – 9:30 PM",
-              "Thursday: 9:00 AM – 9:30 PM",
-              "Friday: 9:00 AM – 9:30 PM",
-              "Saturday: 9:00 AM – 9:30 PM",
-              "Sunday: 10:00 AM – 8:00 PM"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "Сонар-Кардио Медицинскиы Центр",
-          "coordinates": {
-              "lat": 54.8592501,
-              "lng": 69.1641217
-          },
-          "address": "Улица Сатпаыева 34, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 8:00 AM – 8:00 PM",
-              "Tuesday: 8:00 AM – 8:00 PM",
-              "Wednesday: 8:00 AM – 8:00 PM",
-              "Thursday: 8:00 AM – 8:00 PM",
-              "Friday: 8:00 AM – 8:00 PM",
-              "Saturday: 8:00 AM – 3:00 PM",
-              "Sunday: Closed"
-          ],
-          "contacts": "8 (7152) 37 50 05"
-      },
-      {
-          "name": "ИЦОН Гым",
-          "coordinates": {
-              "lat": 54.868331,
-              "lng": 69.14669719999999
-          },
-          "address": "Улица Ауезова 174, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 8:00 AM – 11:00 PM",
-              "Tuesday: 8:00 AM – 11:00 PM",
-              "Wednesday: 8:00 AM – 11:00 PM",
-              "Thursday: 8:00 AM – 11:00 PM",
-              "Friday: 8:00 AM – 11:00 PM",
-              "Saturday: 8:00 AM – 11:00 PM",
-              "Sunday: 8:00 AM – 11:00 PM"
-          ],
-          "contacts": "8 (777) 924 2360"
-      },
-      {
-          "name": "Тренажерныы Зал \"Авангард\"",
-          "coordinates": {
-              "lat": 54.8721934,
-              "lng": 69.14975690000001
-          },
-          "address": "Улица Чаыковского 2, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 8:00 AM – 10:00 PM",
-              "Tuesday: 8:00 AM – 10:00 PM",
-              "Wednesday: 8:00 AM – 10:00 PM",
-              "Thursday: 8:00 AM – 10:00 PM",
-              "Friday: 8:00 AM – 10:00 PM",
-              "Saturday: 8:00 AM – 10:00 PM",
-              "Sunday: Closed"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "Школа Бокса Им. К. Сафина",
-          "coordinates": {
-              "lat": 54.8638171,
-              "lng": 69.1364188
-          },
-          "address": "Улица Парковаыа 141, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 8:00 AM – 9:45 PM",
-              "Tuesday: 8:00 AM – 9:45 PM",
-              "Wednesday: 8:00 AM – 9:45 PM",
-              "Thursday: 8:00 AM – 9:45 PM",
-              "Friday: 8:00 AM – 9:45 PM",
-              "Saturday: 8:00 AM – 8:45 PM",
-              "Sunday: 8:00 AM – 7:00 PM"
-          ],
-          "contacts": "8 (702) 965 5599"
-      },
-      {
-          "name": "Брооклын Данце Счоол",
-          "coordinates": {
-              "lat": 54.86499449999999,
-              "lng": 69.1509688
-          },
-          "address": "Улица Бостандыкскаыа 70, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 9:00 AM – 10:00 PM",
-              "Tuesday: 9:00 AM – 10:00 PM",
-              "Wednesday: 9:00 AM – 10:00 PM",
-              "Thursday: 9:00 AM – 10:00 PM",
-              "Friday: 9:00 AM – 10:00 PM",
-              "Saturday: 9:00 AM – 10:00 PM",
-              "Sunday: 10:00 AM – 8:00 PM"
-          ],
-          "contacts": "8 (777) 953 8899"
-      }
-  ],
-  "parkings": [
-      {
-          "name": "Гаражныы Комплекс \"Дружба\"",
-          "coordinates": {
-              "lat": 54.87117120000001,
-              "lng": 69.1773542
-          },
-          "address": "В5ЦГ+984, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "АвтомобилЬнаыа Стоыанка",
-          "coordinates": {
-              "lat": 54.8668301,
-              "lng": 69.12759199999999
-          },
-          "address": "В48Х+П2П, Мира Ст, Петропавловск 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "Автоцентр Астек",
-          "coordinates": {
-              "lat": 54.87180540000001,
-              "lng": 69.1600642
-          },
-          "address": "В5Ц6+П2Г, Улица Заводскаыа, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "Гаражи \"МагистралЬ\"",
-          "coordinates": {
-              "lat": 54.8552867,
-              "lng": 69.1656984
-          },
-          "address": "В548+478, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "Пыатак",
-          "coordinates": {
-              "lat": 54.9051456,
-              "lng": 69.1203027
-          },
-          "address": "Кхименко Ст 2, Петропавловск 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "Автостоыанка",
-          "coordinates": {
-              "lat": 54.87467299999999,
-              "lng": 69.15481869999999
-          },
-          "address": "В5Ф3+ВW8, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: Open 24 hours",
-              "Tuesday: Open 24 hours",
-              "Wednesday: Open 24 hours",
-              "Thursday: Open 24 hours",
-              "Friday: Open 24 hours",
-              "Saturday: Open 24 hours",
-              "Sunday: Open 24 hours"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "Джамбулат Маг",
-          "coordinates": {
-              "lat": 54.8615009,
-              "lng": 69.16054079999999
-          },
-          "address": "Абай Көшесі 120, Петропавловск 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "Окхраныаыемаыа Стоыанка",
-          "coordinates": {
-              "lat": 54.8712628,
-              "lng": 69.1388166
-          },
-          "address": "Улица Бостандыкскаыа 17, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "АвтомобилЬнаыа Стоыанка",
-          "coordinates": {
-              "lat": 54.86485,
-              "lng": 69.135796
-          },
-          "address": "В47П+W8М, Улица Конституции Казакхстана, Петропавл 150010, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "Автостоыанка",
-          "coordinates": {
-              "lat": 54.8934254,
-              "lng": 69.1443014
-          },
-          "address": "В4ВВ+9ПФ, Улица Аыыртаускаыа, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "Автостоыанка",
-          "coordinates": {
-              "lat": 54.8819683,
-              "lng": 69.1441217
-          },
-          "address": "В4ЙВ+QЙQ, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "Стоыанка На Бензостроые",
-          "coordinates": {
-              "lat": 54.871841,
-              "lng": 69.2050695
-          },
-          "address": "В6Ц4+П2П, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "Автостоыанка",
-          "coordinates": {
-              "lat": 54.9096775,
-              "lng": 69.1399666
-          },
-          "address": "W45Q+ВXГ, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "ПАРКИНГ всех видов транспорта. Ночной, тёплый бокс.",
-          "coordinates": {
-              "lat": 54.9093691,
-              "lng": 69.1568817
-          },
-          "address": "Улица Болатбаыева 17, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: Open 24 hours",
-              "Tuesday: Open 24 hours",
-              "Wednesday: Open 24 hours",
-              "Thursday: Open 24 hours",
-              "Friday: Open 24 hours",
-              "Saturday: Open 24 hours",
-              "Sunday: Open 24 hours"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "ТQС / СТО",
-          "coordinates": {
-              "lat": 54.8568773,
-              "lng": 69.1312575
-          },
-          "address": "Улица Партизанскаыа 181, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 8:00 AM – 6:00 PM",
-              "Tuesday: 8:00 AM – 6:00 PM",
-              "Wednesday: 8:00 AM – 6:00 PM",
-              "Thursday: 8:00 AM – 6:00 PM",
-              "Friday: 8:00 AM – 6:00 PM",
-              "Saturday: 8:00 AM – 6:00 PM",
-              "Sunday: 8:00 AM – 3:00 PM"
-          ],
-          "contacts": "8 (705) 172 8672"
-      },
-      {
-          "name": "Автостоыанка",
-          "coordinates": {
-              "lat": 54.8724454,
-              "lng": 69.1460797
-          },
-          "address": "В4ЦW+XЦГ, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "Нет информации"
-      }
-  ],
-  "recycling_points": [
-      {
-          "name": "Рабочиы Поселок",
-          "coordinates": {
-              "lat": 54.8473182,
-              "lng": 69.186582
-          },
-          "address": "Рабочиы Поселок, 150000 Петропавл, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "Шаxерезада",
-          "coordinates": {
-              "lat": 54.864424,
-              "lng": 69.139449
-          },
-          "address": "квартира 62, Улица Ауезова дом 150, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "8 (705) 453 7736"
-      },
-      {
-          "name": "Хостел Нортх",
-          "coordinates": {
-              "lat": 54.8894895,
-              "lng": 69.1717968
-          },
-          "address": "Мусрепова 18 б Кирпичный двухэтажный, дом, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "8 (700) 962 2057"
-      },
-      {
-          "name": "Петропавл",
-          "coordinates": {
-              "lat": 54.8732209,
-              "lng": 69.1505478
-          },
-          "address": "150000 Петропавл, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "Нет информации"
-      },
-      {
-          "name": "Гостиничная компания Мир квартир",
-          "coordinates": {
-              "lat": 54.864424,
-              "lng": 69.139449
-          },
-          "address": "квартира 62, Улица Ауезова дом 150, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "8 (705) 453 7736"
-      },
-      {
-          "name": "Мини Хотел Зам-Зам",
-          "coordinates": {
-              "lat": 54.8647873,
-              "lng": 69.1230594
-          },
-          "address": "улица Ие 49 ЖК Зам Зам, АСТАНА 010000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "8 (707) 520 5109"
-      },
-      {
-          "name": "Авантаж Веб-Студиыа - Разработка Саытов ПрофессионалЬно.",
-          "coordinates": {
-              "lat": 54.8844103,
-              "lng": 69.1441494
-          },
-          "address": "Шажымбаыев ав., 10, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 9:00 AM – 5:00 PM",
-              "Tuesday: 9:00 AM – 5:00 PM",
-              "Wednesday: 9:00 AM – 5:00 PM",
-              "Thursday: 9:00 AM – 5:00 PM",
-              "Friday: 9:00 AM – 5:00 PM",
-              "Saturday: Closed",
-              "Sunday: Closed"
-          ],
-          "contacts": "8 (7152) 63 00 46"
-      },
-      {
-          "name": "Греенwич Хотел",
-          "coordinates": {
-              "lat": 54.8737976,
-              "lng": 69.12401369999999
-          },
-          "address": "Улица Конституции Казакхстана 1А, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: Open 24 hours",
-              "Tuesday: Open 24 hours",
-              "Wednesday: Open 24 hours",
-              "Thursday: Open 24 hours",
-              "Friday: Open 24 hours",
-              "Saturday: Open 24 hours",
-              "Sunday: Open 24 hours"
-          ],
-          "contacts": "8 (7152) 50 40 40"
-      },
-      {
-          "name": "Филиал Тоо \"Т.б.м.-Казакхстан\" В Г. Петропавл",
-          "coordinates": {
-              "lat": 54.8894895,
-              "lng": 69.1717968
-          },
-          "address": "ул. Г, Габит Мусирепов Стреет 20 \"К, Петропавл 150009, Казакхстан",
-          "opening_hours": [
-              "Monday: 9:00 AM – 6:00 PM",
-              "Tuesday: 9:00 AM – 6:00 PM",
-              "Wednesday: 9:00 AM – 6:00 PM",
-              "Thursday: 9:00 AM – 6:00 PM",
-              "Friday: 9:00 AM – 5:30 PM",
-              "Saturday: Closed",
-              "Sunday: Closed"
-          ],
-          "contacts": "8 (7152) 63 01 30"
-      },
-      {
-          "name": "Алтын адам кафесі",
-          "coordinates": {
-              "lat": 54.857765,
-              "lng": 69.1450471
-          },
-          "address": "Улица Карима Сутыушева 70б, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: Open 24 hours",
-              "Tuesday: Open 24 hours",
-              "Wednesday: Open 24 hours",
-              "Thursday: Open 24 hours",
-              "Friday: Open 24 hours",
-              "Saturday: Open 24 hours",
-              "Sunday: Open 24 hours"
-          ],
-          "contacts": "8 (7152) 33 32 22"
-      },
-      {
-          "name": "Алтын Адам Хотел",
-          "coordinates": {
-              "lat": 54.85771169999999,
-              "lng": 69.1450472
-          },
-          "address": "Улица Карима Сутыушева 70б, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: Open 24 hours",
-              "Tuesday: Open 24 hours",
-              "Wednesday: Open 24 hours",
-              "Thursday: Open 24 hours",
-              "Friday: Open 24 hours",
-              "Saturday: Open 24 hours",
-              "Sunday: Open 24 hours"
-          ],
-          "contacts": "8 (7152) 39 86 61"
-      },
-      {
-          "name": "СКИФ ХОТЕЛ&СПА",
-          "coordinates": {
-              "lat": 54.862374,
-              "lng": 69.132324
-          },
-          "address": "Улица Парковаыа 118, Петропавл 150010, Казакхстан",
-          "opening_hours": [
-              "Monday: Open 24 hours",
-              "Tuesday: Open 24 hours",
-              "Wednesday: Open 24 hours",
-              "Thursday: Open 24 hours",
-              "Friday: Open 24 hours",
-              "Saturday: Open 24 hours",
-              "Sunday: Open 24 hours"
-          ],
-          "contacts": "8 (777) 536 3366"
-      },
-      {
-          "name": "Алтын Орда",
-          "coordinates": {
-              "lat": 54.877559,
-              "lng": 69.1620665
-          },
-          "address": "Улица Ауезова 260а, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: Closed",
-              "Tuesday: 10:00 AM – 12:00 AM",
-              "Wednesday: 10:00 AM – 12:00 AM",
-              "Thursday: 10:00 AM – 12:00 AM",
-              "Friday: 10:00 AM – 12:00 AM",
-              "Saturday: 10:00 AM – 12:00 AM",
-              "Sunday: 10:00 AM – 12:00 AM"
-          ],
-          "contacts": "8 (7152) 50 10 50"
-      },
-      {
-          "name": "абди",
-          "coordinates": {
-              "lat": 54.8718442,
-              "lng": 69.1285626
-          },
-          "address": "Улица Магжана Жумабаыева 98, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 9:00 AM – 7:00 PM",
-              "Tuesday: 9:00 AM – 7:00 PM",
-              "Wednesday: 9:00 AM – 7:00 PM",
-              "Thursday: 9:00 AM – 7:00 PM",
-              "Friday: 9:00 AM – 7:00 PM",
-              "Saturday: 10:00 AM – 5:00 PM",
-              "Sunday: 10:00 AM – 5:00 PM"
-          ],
-          "contacts": "8 (7152) 36 65 91"
-      },
-      {
-          "name": "Хотел Хижина",
-          "coordinates": {
-              "lat": 54.8588921,
-              "lng": 69.1662013
-          },
-          "address": "Улица Сатпаыева 27, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "8 (707) 857 0772"
-      },
-      {
-          "name": "Хостел Уютный дом",
-          "coordinates": {
-              "lat": 54.874298,
-              "lng": 69.1307942
-          },
-          "address": "Улица Совецкаыа 136, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "8 (705) 453 7736"
-      },
-      {
-          "name": "Дворец Молодожи",
-          "coordinates": {
-              "lat": 54.86872330000001,
-              "lng": 69.1616714
-          },
-          "address": "В596+ФММ, Улица К.кеншинбаыева, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Нет информации"
-          ],
-          "contacts": "8 (7152) 33 34 56"
-      },
-      {
-          "name": "ТЕЛЕГРАПХ ИНН",
-          "coordinates": {
-              "lat": 54.8594932,
-              "lng": 69.1422195
-          },
-          "address": "Астана көшесі 2, Петропавловск 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: Open 24 hours",
-              "Tuesday: Open 24 hours",
-              "Wednesday: Open 24 hours",
-              "Thursday: Open 24 hours",
-              "Friday: Open 24 hours",
-              "Saturday: Open 24 hours",
-              "Sunday: Open 24 hours"
-          ],
-          "contacts": "8 (705) 756 7200"
-      },
-      {
-          "name": "СБ ЙСЦ Хоме Цредит анд Финанце Банк",
-          "coordinates": {
-              "lat": 54.86709219999999,
-              "lng": 69.1393387
-          },
-          "address": "Ямбыл Ябаыев Стреет д. 139, Петропавловск 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 9:00 AM – 6:00 PM",
-              "Tuesday: 9:00 AM – 6:00 PM",
-              "Wednesday: 9:00 AM – 6:00 PM",
-              "Thursday: 9:00 AM – 6:00 PM",
-              "Friday: 9:00 AM – 6:00 PM",
-              "Saturday: 10:00 AM – 2:00 PM",
-              "Sunday: Closed"
-          ],
-          "contacts": "8 (7272) 44 54 77"
-      },
-      {
-          "name": "Пырамида",
-          "coordinates": {
-              "lat": 54.8604577,
-              "lng": 69.1653437
-          },
-          "address": "Улица Батыр Баыана 11, Петропавл 150000, Казакхстан",
-          "opening_hours": [
-              "Monday: 8:00 AM – 12:00 AM",
-              "Tuesday: 8:00 AM – 12:00 AM",
-              "Wednesday: 8:00 AM – 12:00 AM",
-              "Thursday: 8:00 AM – 12:00 AM",
-              "Friday: 8:00 AM – 12:00 AM",
-              "Saturday: 8:00 AM – 12:00 AM",
-              "Sunday: 8:00 AM – 12:00 AM"
-          ],
-          "contacts": "8 (7152) 33 55 04"
-      }
-  ]
+    "hospitals": [
+        {
+            "name": "СпасМед",
+            "coordinates": {
+                "lat": 54.8746818,
+                "lng": 69.1420302
+            },
+            "address": "ул. Мира, 119, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 9:00–20:00",
+                "Вторник: 9:00–20:00",
+                "Среда: 9:00–20:00",
+                "Четверг: 9:00–20:00",
+                "Пятница: 9:00–20:00",
+                "Суббота: 9:00–13:00",
+                "Воскресенье: выходной"
+            ],
+            "contacts": "8 (7152) 37 35 35"
+        },
+        {
+            "name": "Центр здоровых стоп и ногтей ПОДОЛОГИЯ",
+            "coordinates": {
+                "lat": 54.8707886,
+                "lng": 69.1464364
+            },
+            "address": "Улица Жамбыла Джабаева, 167, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "8 (705) 559 9222"
+        },
+        {
+            "name": "Детская Больница",
+            "coordinates": {
+                "lat": 54.8585837,
+                "lng": 69.164761
+            },
+            "address": "Улица Сатпаева, 34-36, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "Айна Коз",
+            "coordinates": {
+                "lat": 54.9027782,
+                "lng": 69.14769799999999
+            },
+            "address": "ул. Мира, 229, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 9:00–18:00",
+                "Вторник: 9:00–18:00",
+                "Среда: 9:00–18:00",
+                "Четверг: 9:00–18:00",
+                "Пятница: 9:00–18:00",
+                "Суббота: 9:00–18:00",
+                "Воскресенье: выходной"
+            ],
+            "contacts": "8 (7152) 51 19 37"
+        },
+        {
+            "name": "2Гпк Больница",
+            "coordinates": {
+                "lat": 54.8705632,
+                "lng": 69.15218089999999
+            },
+            "address": "Улица Чайковского, 18, Петропавловск 150004, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "Областной Противотуберкулезный Диспенсер",
+            "coordinates": {
+                "lat": 54.9168125,
+                "lng": 69.1552378
+            },
+            "address": "W584+P3H, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "8 (7152) 53 81 16"
+        },
+        {
+            "name": "Госпиталь DVD",
+            "coordinates": {
+                "lat": 54.86689690000001,
+                "lng": 69.15473039999999
+            },
+            "address": "Алматы көшесі 38, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "8 (7152) 39 42 77"
+        },
+        {
+            "name": "Бойцовский Клуб Имени Патрика Бейтмена",
+            "coordinates": {
+                "lat": 54.8658745,
+                "lng": 69.1535418
+            },
+            "address": "Абай Көшесі 100, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "Санаторий-профилакторий «Транссиб»",
+            "coordinates": {
+                "lat": 54.8590146,
+                "lng": 69.1751508
+            },
+            "address": "V55G+J32, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "8 (777) 923 9139"
+        },
+        {
+            "name": "Мед ЭЛИТ",
+            "coordinates": {
+                "lat": 54.8624039,
+                "lng": 69.1529378
+            },
+            "address": "Улица Интернациональная, 90, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 8:00–20:00",
+                "Вторник: 8:00–20:00",
+                "Среда: 8:00–20:00",
+                "Четверг: 8:00–20:00",
+                "Пятница: 8:00–20:00",
+                "Суббота: 8:00–20:00",
+                "Воскресенье: 8:00–20:00"
+            ],
+            "contacts": "8 (701) 800 8667"
+        },
+        {
+            "name": "Кардиологический Центр",
+            "coordinates": {
+                "lat": 54.8689641,
+                "lng": 69.1584635
+            },
+            "address": "Улица П. Васильева, 123, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 8:00–17:00",
+                "Вторник: 8:00–17:00",
+                "Среда: 8:00–17:00",
+                "Четверг: 8:00–17:00",
+                "Пятница: 8:00–17:00",
+                "Суббота: выходной",
+                "Воскресенье: выходной"
+            ],
+            "contacts": "8 (7152) 33 04 68"
+        },
+        {
+            "name": "Есиль Диагностик",
+            "coordinates": {
+                "lat": 54.89582679999999,
+                "lng": 69.138268
+            },
+            "address": "улица имени Тауфика Мухамед-Рахимова 139, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 9:00–20:00",
+                "Вторник: 9:00–20:00",
+                "Среда: 9:00–20:00",
+                "Четверг: 9:00–20:00",
+                "Пятница: 9:00–20:00",
+                "Суббота: 8:00–14:00",
+                "Воскресенье: выходной"
+            ],
+            "contacts": "8 (7152) 51 57 95"
+        },
+        {
+            "name": "Сонар-Кардио Медицинский Центр",
+            "coordinates": {
+                "lat": 54.8592501,
+                "lng": 69.1641217
+            },
+            "address": "Улица Сатпаева, 34, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 8:00–20:00",
+                "Вторник: 8:00–20:00",
+                "Среда: 8:00–20:00",
+                "Четверг: 8:00–20:00",
+                "Пятница: 8:00–20:00",
+                "Суббота: 8:00–15:00",
+                "Воскресенье: выходной"
+            ],
+            "contacts": "8 (7152) 37 50 05"
+        },
+        {
+            "name": "Грудничковое Плавание \"Буль Бюль\"",
+            "coordinates": {
+                "lat": 54.8663554,
+                "lng": 69.1566162
+            },
+            "address": "Астана көшесі 39, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 10:00–18:00",
+                "Вторник: 10:00–18:00",
+                "Среда: 10:00–18:00",
+                "Четверг: 10:00–18:00",
+                "Пятница: 10:00–18:00",
+                "Суббота: 10:00–18:00",
+                "Воскресенье: выходной"
+            ],
+            "contacts": "8 (771) 029 8881"
+        },
+        {
+            "name": "Скоф Ргп На ПХВ «Национальный научный центр развития здравоохранения имени Салидат Каирбековой» Мз РК",
+            "coordinates": {
+                "lat": 54.8581497,
+                "lng": 69.15536800000001
+            },
+            "address": "Улица Сатпаева, 3, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 9:00–18:00",
+                "Вторник: 9:00–18:00",
+                "Среда: 9:00–18:00",
+                "Четверг: 9:00–18:00",
+                "Пятница: 9:00–18:00",
+                "Суббота: выходной",
+                "Воскресенье: выходной"
+            ],
+            "contacts": "8 (7152) 33 39 81"
+        },
+        {
+            "name": "Филиал 2 Городской поликлиники",
+            "coordinates": {
+                "lat": 54.871761,
+                "lng": 69.209324
+            },
+            "address": "V6C5+PP4, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 8:00–18:00",
+                "Вторник: 8:00–18:00",
+                "Среда: 8:00–18:00",
+                "Четверг: 8:00–18:00",
+                "Пятница: 8:00–18:00",
+                "Суббота: выходной",
+                "Воскресенье: выходной"
+            ],
+            "contacts": "8 (702) 832 7599"
+        },
+        {
+            "name": "КГП на ПХВ «Областной кожно-венерологический диспансер» КГУ «УЗ акимата СКО»",
+            "coordinates": {
+                "lat": 54.862549,
+                "lng": 69.15299929999999
+            },
+            "address": "Улица Интернациональная, 90, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 8:00–19:00",
+                "Вторник: 8:00–19:00",
+                "Среда: 8:00–19:00",
+                "Четверг: 8:00–19:00",
+                "Пятница: 8:00–19:00",
+                "Суббота: выходной",
+                "Воскресенье: выходной"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "Медицинский центр «ДоброМед»",
+            "coordinates": {
+                "lat": 54.8762396,
+                "lng": 69.124534
+            },
+            "address": "Улица Театральная, 52, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 8:30–19:00",
+                "Вторник: 8:30–19:00",
+                "Среда: 8:30–19:00",
+                "Четверг: 8:30–19:00",
+                "Пятница: 8:30–19:00",
+                "Суббота: выходной",
+                "Воскресенье: выходной"
+            ],
+            "contacts": "8 (7152) 46 36 51"
+        },
+        {
+            "name": "Вторая Городская Поликлиника",
+            "coordinates": {
+                "lat": 54.86870869999999,
+                "lng": 69.15804229999999
+            },
+            "address": "V595+F6M, Астана көшесі, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 8:00–20:00",
+                "Вторник: 8:00–20:00",
+                "Среда: 8:00–20:00",
+                "Четверг: 8:00–20:00",
+                "Пятница: 8:00–20:00",
+                "Суббота: 9:00–15:00",
+                "Воскресенье: выходной"
+            ],
+            "contacts": "8 (7152) 50 46 46"
+        },
+        {
+            "name": "Митралия",
+            "coordinates": {
+                "lat": 54.8648737,
+                "lng": 69.1201464
+            },
+            "address": "Улица Казахстанской Правды, 33, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 8:00–20:00",
+                "Вторник: 8:00–20:00",
+                "Среда: 8:00–20:00",
+                "Четверг: 8:00–20:00",
+                "Пятница: 8:00–20:00",
+                "Суббота: 8:00–13:00",
+                "Воскресенье: выходной"
+            ],
+            "contacts": "8 (7152) 63 01 75"
+        }
+    ],
+    "clinics": [
+        {
+            "name": "Валерий Панджакидзе",
+            "coordinates": {
+                "lat": 54.9027441,
+                "lng": 69.1509224
+            },
+            "address": "W532+39V, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 8:00–16:45",
+                "Вторник: выходной",
+                "Среда: выходной",
+                "Четверг: 8:00–16:45",
+                "Пятница: выходной",
+                "Суббота: выходной",
+                "Воскресенье: выходной"
+            ],
+            "contacts": "8 (771) 416 6991"
+        },
+        {
+            "name": "Профилакторий",
+            "coordinates": {
+                "lat": 54.85874469999999,
+                "lng": 69.1732785
+            },
+            "address": "Улица Сатпаева, 37, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "Консилиум",
+            "coordinates": {
+                "lat": 54.87648189999999,
+                "lng": 69.12935279999999
+            },
+            "address": "Улица Интернациональная, 16, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "Невропатолог Макина",
+            "coordinates": {
+                "lat": 54.8720478,
+                "lng": 69.12447449999999
+            },
+            "address": "Улица Пушкина д 57, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "8 (7152) 49 04 41"
+        },
+        {
+            "name": "МДЦ ВесНет",
+            "coordinates": {
+                "lat": 54.9097479,
+                "lng": 69.1485551
+            },
+            "address": "W45X+VCV, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 8:30–20:00",
+                "Вторник: 8:30–20:00",
+                "Среда: 8:30–20:00",
+                "Четверг: 8:30–20:00",
+                "Пятница: 8:30–20:00",
+                "Суббота: 8:30–16:00",
+                "Воскресенье: выходной"
+            ],
+            "contacts": "8 (7152) 63 11 03"
+        },
+        {
+            "name": "Врач Остеопат",
+            "coordinates": {
+                "lat": 54.8617055,
+                "lng": 69.1320534
+            },
+            "address": "Улица Парковая, 117, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "8 (777) 051 1118"
+        },
+        {
+            "name": "Тоже Формула Здоровья",
+            "coordinates": {
+                "lat": 54.8578914,
+                "lng": 69.1234873
+            },
+            "address": "V45F+595, улица Челюскина, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 17:00–20:00",
+                "Вторник: 17:00–20:00",
+                "Среда: 17:00–20:00",
+                "Четверг: 17:00–20:00",
+                "Пятница: 17:00–20:00",
+                "Суббота: 10:00–13:00",
+                "Воскресенье: выходной"
+            ],
+            "contacts": "8 (7152) 53 44 24"
+        },
+        {
+            "name": "МЕДИЦИНСКИЙ ЦЕНТР «ЧАСТНАЯ КЛИНИКА»",
+            "coordinates": {
+                "lat": 54.8639147,
+                "lng": 69.1689361
+            },
+            "address": "Улица Ю. Медведева, 43, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 10:00–17:00",
+                "Вторник: 10:00–17:00",
+                "Среда: 10:00–17:00",
+                "Четверг: 10:00–17:00",
+                "Пятница: 10:00–17:00",
+                "Суббота: выходной",
+                "Воскресенье: выходной"
+            ],
+            "contacts": "8 (777) 038 8282"
+        },
+        {
+            "name": "Стоматология Имплант Дент",
+            "coordinates": {
+                "lat": 54.8760415,
+                "lng": 69.1319102
+            },
+            "address": "Улица Интернациональная, 83, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 10:00–18:00",
+                "Вторник: 10:00–18:00",
+                "Среда: 10:00–18:00",
+                "Четверг: 10:00–18:00",
+                "Пятница: 10:00–18:00",
+                "Суббота: выходной",
+                "Воскресенье: выходной"
+            ],
+            "contacts": "8 (7152) 33 08 77"
+        },
+        {
+            "name": "Санос",
+            "coordinates": {
+                "lat": 54.86450499999999,
+                "lng": 69.1677775
+            },
+            "address": "Улица Ю. Медведева, 43, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 10:00–18:00",
+                "Вторник: 10:00–18:00",
+                "Среда: 10:00–18:00",
+                "Четверг: 10:00–18:00",
+                "Пятница: 10:00–18:00",
+                "Суббота: выходной",
+                "Воскресенье: выходной"
+            ],
+            "contacts": "8 (707) 532 5067"
+        },
+        {
+            "name": "Офтальмологический кабинет Взгляд",
+            "coordinates": {
+                "lat": 54.87653570000001,
+                "lng": 69.1431226
+            },
+            "address": "ул. Мира, 156, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 10:20–18:30",
+                "Вторник: 10:20–18:30",
+                "Среда: 10:20–18:30",
+                "Четверг: 10:20–18:30",
+                "Пятница: 10:20–18:30",
+                "Суббота: 10:20–14:00",
+                "Воскресенье: выходной"
+            ],
+            "contacts": "8 (7152) 37 36 47"
+        },
+        {
+            "name": "Митралия",
+            "coordinates": {
+                "lat": 54.8648737,
+                "lng": 69.1201464
+            },
+            "address": "Улица Казахстанской Правды, 33, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 8:00–20:00",
+                "Вторник: 8:00–20:00",
+                "Среда: 8:00–20:00",
+                "Четверг: 8:00–20:00",
+                "Пятница: 8:00–20:00",
+                "Суббота: 8:00–13:00",
+                "Воскресенье: выходной"
+            ],
+            "contacts": "8 (7152) 63 01 75"
+        },
+        {
+            "name": "Медицинский центр «ДоброМед»",
+            "coordinates": {
+                "lat": 54.8762396,
+                "lng": 69.124534
+            },
+            "address": "Улица Театральная, 52, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 8:30–19:00",
+                "Вторник: 8:30–19:00",
+                "Среда: 8:30–19:00",
+                "Четверг: 8:30–19:00",
+                "Пятница: 8:30–19:00",
+                "Суббота: выходной",
+                "Воскресенье: выходной"
+            ],
+            "contacts": "8 (7152) 46 36 51"
+        },
+        {
+            "name": "Остеопат Остеопластика Кинезиолог Мануальная терапия, :обучение",
+            "coordinates": {
+                "lat": 54.86698639999999,
+                "lng": 69.1380707
+            },
+            "address": "маг Евразия, улица Жамбыла Джабаева 172/1, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 10:00–12:00",
+                "Вторник: 12:00–8:00, 10:00–8:00",
+                "Среда: 10:00–20:00",
+                "Четверг: 10:00–20:00",
+                "Пятница: 10:00–20:00",
+                "Суббота: 9:00–12:00",
+                "Воскресенье: 12:00–8:00"
+            ],
+            "contacts": "8 (701) 448 1445"
+        },
+        {
+            "name": "Митралия",
+            "coordinates": {
+                "lat": 54.859798,
+                "lng": 69.1239806
+            },
+            "address": "Улица Маяковского, 96, Петропавловск 150007, Казахстан",
+            "opening_hours": [
+                "Понедельник: 8:00–20:00",
+                "Вторник: 8:00–20:00",
+                "Среда: 8:00–20:00",
+                "Четверг: 8:00–20:00",
+                "Пятница: 8:00–20:00",
+                "Суббота: 8:00–15:00",
+                "Воскресенье: выходной"
+            ],
+            "contacts": "8 (7152) 63 01 75"
+        }
+    ],
+    "gyms": [
+        {
+            "name": "Дом Хоумлендера",
+            "coordinates": {
+                "lat": 54.87064590000001,
+                "lng": 69.1988166
+            },
+            "address": "V5CX+7G4, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "Занятия По Йоге",
+            "coordinates": {
+                "lat": 54.86398579999999,
+                "lng": 69.1365046
+            },
+            "address": "Улица Парковая, 141, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "Леди Фитнес",
+            "coordinates": {
+                "lat": 54.8634396,
+                "lng": 69.15589659999999
+            },
+            "address": "V574+99C, улица Гоголя, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "Пилатес Студия Юлии Келер",
+            "coordinates": {
+                "lat": 54.8718019,
+                "lng": 69.1388564
+            },
+            "address": "Улица Амангельды, 163, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "8 (705) 338 0288"
+        },
+        {
+            "name": "Преподаватель йоги в Петропавловске || Семинары по йоге",
+            "coordinates": {
+                "lat": 54.89086640000001,
+                "lng": 69.14823059999999
+            },
+            "address": "Мусрепова 18/Б, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 19:00–20:30",
+                "Вторник: выходной",
+                "Среда: 19:00–20:30",
+                "Четверг: выходной",
+                "Пятница: 19:00–20:30",
+                "Суббота: выходной",
+                "Воскресенье: выходной"
+            ],
+            "contacts": "8 (777) 923 1241"
+        },
+        {
+            "name": "Полюс",
+            "coordinates": {
+                "lat": 54.8921556,
+                "lng": 69.1480567
+            },
+            "address": "Улица Ибрая Алтынсарина, 169, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "Домашняя копченая рыба",
+            "coordinates": {
+                "lat": 54.8588629,
+                "lng": 69.1655509
+            },
+            "address": "Улица Сатпаева, 27, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "Фитнес-клуб Зверь",
+            "coordinates": {
+                "lat": 54.8935407,
+                "lng": 69.14454479999999
+            },
+            "address": "ул. Мира, 252, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "СКИФ ОТЕЛЬ&СПА",
+            "coordinates": {
+                "lat": 54.862374,
+                "lng": 69.132324
+            },
+            "address": "Улица Парковая, 118, Петропавловск 150010, Казахстан",
+            "opening_hours": [
+                "Понедельник: открыто 24 часа",
+                "Вторник: открыто 24 часа",
+                "Среда: открыто 24 часа",
+                "Четверг: открыто 24 часа",
+                "Пятница: открыто 24 часа",
+                "Суббота: открыто 24 часа",
+                "Воскресенье: открыто 24 часа"
+            ],
+            "contacts": "8 (777) 536 3366"
+        },
+        {
+            "name": "Спортзал 1",
+            "coordinates": {
+                "lat": 54.87845129999999,
+                "lng": 69.1337786
+            },
+            "address": "V4HM+9GJ, улица Пушкина, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 8:30–22:00",
+                "Вторник: 8:30–22:00",
+                "Среда: 8:30–22:00",
+                "Четверг: 8:30–22:00",
+                "Пятница: 8:30–22:00",
+                "Суббота: 8:30–22:00",
+                "Воскресенье: 10:00–20:00"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "Клуб тхэквондо \"Коро\"",
+            "coordinates": {
+                "lat": 54.89372669999999,
+                "lng": 69.1444831
+            },
+            "address": "ул. Мира, 252, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "Тренажерный зал",
+            "coordinates": {
+                "lat": 54.8636178,
+                "lng": 69.1408907
+            },
+            "address": "Улица Конституции Казахстана, 54, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 9:00–22:00",
+                "Вторник: 9:00–22:00",
+                "Среда: 9:00–22:00",
+                "Четверг: 9:00–22:00",
+                "Пятница: 9:00–22:00",
+                "Суббота: 9:00–22:00",
+                "Воскресенье: 10:00–19:00"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "Тренажерный зал «Фитнеслэнд»",
+            "coordinates": {
+                "lat": 54.8997012,
+                "lng": 69.1473451
+            },
+            "address": "ул. Мира, 219, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 10:00–22:00",
+                "Вторник: 10:00–22:00",
+                "Среда: 10:00–22:00",
+                "Четверг: 10:00–22:00",
+                "Пятница: 10:00–22:00",
+                "Суббота: 10:00–22:00",
+                "Воскресенье: 10:00–22:00"
+            ],
+            "contacts": "8 (7152) 51 18 28"
+        },
+        {
+            "name": "Фитнес-клуб \"Нептун\"",
+            "coordinates": {
+                "lat": 54.8652544,
+                "lng": 69.16769599999999
+            },
+            "address": "Улица Медведева, 41, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 8:00–23:00",
+                "Вторник: 8:00–23:00",
+                "Среда: 8:00–23:00",
+                "Четверг: 8:00–23:00",
+                "Пятница: 8:00–23:00",
+                "Суббота: 8:00–23:00",
+                "Воскресенье: 8:00–20:00"
+            ],
+            "contacts": "8 (7152) 33 91 99"
+        },
+        {
+            "name": "Лидер",
+            "coordinates": {
+                "lat": 54.866496,
+                "lng": 69.150331
+            },
+            "address": "V582+H4W, Абай Көшесі, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 9:00–21:30",
+                "Вторник: 9:00–21:30",
+                "Среда: 9:00–21:30",
+                "Четверг: 9:00–21:30",
+                "Пятница: 9:00–21:30",
+                "Суббота: 9:00–21:30",
+                "Воскресенье: 10:00–20:00"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "Сонар-Кардио Медицинский Центр",
+            "coordinates": {
+                "lat": 54.8592501,
+                "lng": 69.1641217
+            },
+            "address": "Улица Сатпаева, 34, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 8:00–20:00",
+                "Вторник: 8:00–20:00",
+                "Среда: 8:00–20:00",
+                "Четверг: 8:00–20:00",
+                "Пятница: 8:00–20:00",
+                "Суббота: 8:00–15:00",
+                "Воскресенье: выходной"
+            ],
+            "contacts": "8 (7152) 37 50 05"
+        },
+        {
+            "name": "Тренажерный зал ICON",
+            "coordinates": {
+                "lat": 54.868331,
+                "lng": 69.14669719999999
+            },
+            "address": "Улица Ауэзова, 174, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 8:00–23:00",
+                "Вторник: 8:00–23:00",
+                "Среда: 8:00–23:00",
+                "Четверг: 8:00–23:00",
+                "Пятница: 8:00–23:00",
+                "Суббота: 8:00–23:00",
+                "Воскресенье: 8:00–23:00"
+            ],
+            "contacts": "8 (777) 924 2360"
+        },
+        {
+            "name": "Тренажерный зал \"Авангард\"",
+            "coordinates": {
+                "lat": 54.8721934,
+                "lng": 69.14975690000001
+            },
+            "address": "Улица Чайковского, 2, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 8:00–22:00",
+                "Вторник: 8:00–22:00",
+                "Среда: 8:00–22:00",
+                "Четверг: 8:00–22:00",
+                "Пятница: 8:00–22:00",
+                "Суббота: 8:00–22:00",
+                "Воскресенье: выходной"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "Школа бокса им. К. Сафина",
+            "coordinates": {
+                "lat": 54.8638171,
+                "lng": 69.1364188
+            },
+            "address": "Улица Парковая, 141, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 8:00–21:45",
+                "Вторник: 8:00–21:45",
+                "Среда: 8:00–21:45",
+                "Четверг: 8:00–21:45",
+                "Пятница: 8:00–21:45",
+                "Суббота: 8:00–20:45",
+                "Воскресенье: 8:00–19:00"
+            ],
+            "contacts": "8 (702) 965 5599"
+        },
+        {
+            "name": "Бруклинская школа танцев",
+            "coordinates": {
+                "lat": 54.86499449999999,
+                "lng": 69.1509688
+            },
+            "address": "Улица Бостандыкская, 70, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 9:00–22:00",
+                "Вторник: 9:00–22:00",
+                "Среда: 9:00–22:00",
+                "Четверг: 9:00–22:00",
+                "Пятница: 9:00–22:00",
+                "Суббота: 9:00–22:00",
+                "Воскресенье: 10:00–20:00"
+            ],
+            "contacts": "8 (777) 953 8899"
+        }
+    ],
+    "parkings": [
+        {
+            "name": "Гаражный комплекс \"Дружба\"",
+            "coordinates": {
+                "lat": 54.87117120000001,
+                "lng": 69.1773542
+            },
+            "address": "V5CG+984, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "Автомобильная Стоянка",
+            "coordinates": {
+                "lat": 54.8668301,
+                "lng": 69.12759199999999
+            },
+            "address": "V48H+P2P, ул. Мира, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "Автоцентр Астек",
+            "coordinates": {
+                "lat": 54.87180540000001,
+                "lng": 69.1600642
+            },
+            "address": "V5C6+P2G, улица Заводская, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "Гаражи \"Магистраль\"",
+            "coordinates": {
+                "lat": 54.8552867,
+                "lng": 69.1656984
+            },
+            "address": "V548+478, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "Пятак",
+            "coordinates": {
+                "lat": 54.9051456,
+                "lng": 69.1203027
+            },
+            "address": "ул. Хименко, 2, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "Автостоянка",
+            "coordinates": {
+                "lat": 54.87467299999999,
+                "lng": 69.15481869999999
+            },
+            "address": "V5F3+VW8, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: открыто 24 часа",
+                "Вторник: открыто 24 часа",
+                "Среда: открыто 24 часа",
+                "Четверг: открыто 24 часа",
+                "Пятница: открыто 24 часа",
+                "Суббота: открыто 24 часа",
+                "Воскресенье: открыто 24 часа"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "Джамбулат Маг",
+            "coordinates": {
+                "lat": 54.8615009,
+                "lng": 69.16054079999999
+            },
+            "address": "Абай Көшесі 120, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "Охраняемая Стоянка",
+            "coordinates": {
+                "lat": 54.8712628,
+                "lng": 69.1388166
+            },
+            "address": "Улица Бостандыкская, 17, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "Автомобильная Стоянка",
+            "coordinates": {
+                "lat": 54.86485,
+                "lng": 69.135796
+            },
+            "address": "V47P+W8M, Улица Конституции Казахстана, Петропавловск 150010, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "Автостоянка",
+            "coordinates": {
+                "lat": 54.8934254,
+                "lng": 69.1443014
+            },
+            "address": "V4VV+9PF, улица Айыртауская, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "Автостоянка",
+            "coordinates": {
+                "lat": 54.8819683,
+                "lng": 69.1441217
+            },
+            "address": "V4JV+QJQ, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "Стоянка На Бензострое",
+            "coordinates": {
+                "lat": 54.871841,
+                "lng": 69.2050695
+            },
+            "address": "V6C4+P2P, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "Автостоянка",
+            "coordinates": {
+                "lat": 54.9096775,
+                "lng": 69.1399666
+            },
+            "address": "W45Q+VXG, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "ПАРКОВКА всех видов транспорта. Ночной, теплый бокс.",
+            "coordinates": {
+                "lat": 54.9093691,
+                "lng": 69.1568817
+            },
+            "address": "Улица Болатбаева, 17, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: открыто 24 часа",
+                "Вторник: открыто 24 часа",
+                "Среда: открыто 24 часа",
+                "Четверг: открыто 24 часа",
+                "Пятница: открыто 24 часа",
+                "Суббота: открыто 24 часа",
+                "Воскресенье: открыто 24 часа"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "TQS / СТО",
+            "coordinates": {
+                "lat": 54.8568773,
+                "lng": 69.1312575
+            },
+            "address": "Улица Партизанская, 181, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 8:00–18:00",
+                "Вторник: 8:00–18:00",
+                "Среда: 8:00–18:00",
+                "Четверг: 8:00–18:00",
+                "Пятница: 8:00–18:00",
+                "Суббота: 8:00–18:00",
+                "Воскресенье: 8:00–15:00"
+            ],
+            "contacts": "8 (705) 172 8672"
+        },
+        {
+            "name": "Автостоянка",
+            "coordinates": {
+                "lat": 54.8724454,
+                "lng": 69.1460797
+            },
+            "address": "V4CW+XCG, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "Нет информации"
+        }
+    ],
+    "recycling_points": [
+        {
+            "name": "Рабочий Поселок",
+            "coordinates": {
+                "lat": 54.8473182,
+                "lng": 69.186582
+            },
+            "address": "Рабочий поселок, 150000 Петропавловск, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "Шахерезада",
+            "coordinates": {
+                "lat": 54.864424,
+                "lng": 69.139449
+            },
+            "address": "квартира 62, улица Ауэзова дом 150, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "8 (705) 453 7736"
+        },
+        {
+            "name": "Хостел North",
+            "coordinates": {
+                "lat": 54.8894895,
+                "lng": 69.1717968
+            },
+            "address": "Мусрепова 18 б Кирпичный двухэтажный, дом, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "8 (700) 962 2057"
+        },
+        {
+            "name": "Петропавловск",
+            "coordinates": {
+                "lat": 54.8732209,
+                "lng": 69.1505478
+            },
+            "address": "150000 Петропавловск, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "Нет информации"
+        },
+        {
+            "name": "Гостиничная компания Мир квартир",
+            "coordinates": {
+                "lat": 54.864424,
+                "lng": 69.139449
+            },
+            "address": "квартира 62, улица Ауэзова дом 150, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "8 (705) 453 7736"
+        },
+        {
+            "name": "Мини-отель Зам-Зам",
+            "coordinates": {
+                "lat": 54.8647873,
+                "lng": 69.1230594
+            },
+            "address": "улица Ие 49 ЖК Зам Зам, АСТАНА 010000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "8 (707) 520 5109"
+        },
+        {
+            "name": "Авантаж Веб-Студия - Разработка Сайтов Профессионально.",
+            "coordinates": {
+                "lat": 54.8844103,
+                "lng": 69.1441494
+            },
+            "address": "проспект Шажимбаева, 10, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 9:00–17:00",
+                "Вторник: 9:00–17:00",
+                "Среда: 9:00–17:00",
+                "Четверг: 9:00–17:00",
+                "Пятница: 9:00–17:00",
+                "Суббота: выходной",
+                "Воскресенье: выходной"
+            ],
+            "contacts": "8 (7152) 63 00 46"
+        },
+        {
+            "name": "Отель Гринвич",
+            "coordinates": {
+                "lat": 54.8737976,
+                "lng": 69.12401369999999
+            },
+            "address": "Улица Конституции Казахстана, 1А, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: открыто 24 часа",
+                "Вторник: открыто 24 часа",
+                "Среда: открыто 24 часа",
+                "Четверг: открыто 24 часа",
+                "Пятница: открыто 24 часа",
+                "Суббота: открыто 24 часа",
+                "Воскресенье: открыто 24 часа"
+            ],
+            "contacts": "8 (7152) 50 40 40"
+        },
+        {
+            "name": "Филиал Тоо «Т.б.м.-Казахстан» В.Г.Петропавла",
+            "coordinates": {
+                "lat": 54.8894895,
+                "lng": 69.1717968
+            },
+            "address": "ул. Г, улица Габита Мусирепова, 20 \"К, Петропавловск 150009, Казахстан",
+            "opening_hours": [
+                "Понедельник: 9:00–18:00",
+                "Вторник: 9:00–18:00",
+                "Среда: 9:00–18:00",
+                "Четверг: 9:00–18:00",
+                "Пятница: 9:00–17:30",
+                "Суббота: выходной",
+                "Воскресенье: выходной"
+            ],
+            "contacts": "8 (7152) 63 01 30"
+        },
+        {
+            "name": "Алтын адам кафе",
+            "coordinates": {
+                "lat": 54.857765,
+                "lng": 69.1450471
+            },
+            "address": "Улица Карима Сутюшева, 70б, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: открыто 24 часа",
+                "Вторник: открыто 24 часа",
+                "Среда: открыто 24 часа",
+                "Четверг: открыто 24 часа",
+                "Пятница: открыто 24 часа",
+                "Суббота: открыто 24 часа",
+                "Воскресенье: открыто 24 часа"
+            ],
+            "contacts": "8 (7152) 33 32 22"
+        },
+        {
+            "name": "Гостиница Алтын Адам",
+            "coordinates": {
+                "lat": 54.85771169999999,
+                "lng": 69.1450472
+            },
+            "address": "Улица Карима Сутюшева, 70б, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: открыто 24 часа",
+                "Вторник: открыто 24 часа",
+                "Среда: открыто 24 часа",
+                "Четверг: открыто 24 часа",
+                "Пятница: открыто 24 часа",
+                "Суббота: открыто 24 часа",
+                "Воскресенье: открыто 24 часа"
+            ],
+            "contacts": "8 (7152) 39 86 61"
+        },
+        {
+            "name": "СКИФ ОТЕЛЬ&СПА",
+            "coordinates": {
+                "lat": 54.862374,
+                "lng": 69.132324
+            },
+            "address": "Улица Парковая, 118, Петропавловск 150010, Казахстан",
+            "opening_hours": [
+                "Понедельник: открыто 24 часа",
+                "Вторник: открыто 24 часа",
+                "Среда: открыто 24 часа",
+                "Четверг: открыто 24 часа",
+                "Пятница: открыто 24 часа",
+                "Суббота: открыто 24 часа",
+                "Воскресенье: открыто 24 часа"
+            ],
+            "contacts": "8 (777) 536 3366"
+        },
+        {
+            "name": "Алтын Орда",
+            "coordinates": {
+                "lat": 54.877559,
+                "lng": 69.1620665
+            },
+            "address": "Улица Ауэзова, 260а, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: выходной",
+                "Вторник: 10:00–12:00",
+                "Среда: 10:00–12:00",
+                "Четверг: 10:00–12:00",
+                "Пятница: 10:00–12:00",
+                "Суббота: 10:00–12:00",
+                "Воскресенье: 10:00–12:00"
+            ],
+            "contacts": "8 (7152) 50 10 50"
+        },
+        {
+            "name": "абди",
+            "coordinates": {
+                "lat": 54.8718442,
+                "lng": 69.1285626
+            },
+            "address": "Улица Магжана Жумабаева, 98, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 9:00–19:00",
+                "Вторник: 9:00–19:00",
+                "Среда: 9:00–19:00",
+                "Четверг: 9:00–19:00",
+                "Пятница: 9:00–19:00",
+                "Суббота: 10:00–17:00",
+                "Воскресенье: 10:00–17:00"
+            ],
+            "contacts": "8 (7152) 36 65 91"
+        },
+        {
+            "name": "Гостиница Хижина",
+            "coordinates": {
+                "lat": 54.8588921,
+                "lng": 69.1662013
+            },
+            "address": "Улица Сатпаева, 27, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "8 (707) 857 0772"
+        },
+        {
+            "name": "Хостел Уютный дом",
+            "coordinates": {
+                "lat": 54.874298,
+                "lng": 69.1307942
+            },
+            "address": "Улица Советская, 136, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "8 (705) 453 7736"
+        },
+        {
+            "name": "Дворец Молодёжи",
+            "coordinates": {
+                "lat": 54.86872330000001,
+                "lng": 69.1616714
+            },
+            "address": "V596+FMM, улица К.кеншинбаева, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Нет информации"
+            ],
+            "contacts": "8 (7152) 33 34 56"
+        },
+        {
+            "name": "ТЕЛЕГРАФ ИНН",
+            "coordinates": {
+                "lat": 54.8594932,
+                "lng": 69.1422195
+            },
+            "address": "Астана көшесі 2, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: открыто 24 часа",
+                "Вторник: открыто 24 часа",
+                "Среда: открыто 24 часа",
+                "Четверг: открыто 24 часа",
+                "Пятница: открыто 24 часа",
+                "Суббота: открыто 24 часа",
+                "Воскресенье: открыто 24 часа"
+            ],
+            "contacts": "8 (705) 756 7200"
+        },
+        {
+            "name": "ДБ АО «Хоум Кредит энд Финанс Банк»",
+            "coordinates": {
+                "lat": 54.86709219999999,
+                "lng": 69.1393387
+            },
+            "address": "улица Жамбыла Джабаева д. 139, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 9:00–18:00",
+                "Вторник: 9:00–18:00",
+                "Среда: 9:00–18:00",
+                "Четверг: 9:00–18:00",
+                "Пятница: 9:00–18:00",
+                "Суббота: 10:00–14:00",
+                "Воскресенье: выходной"
+            ],
+            "contacts": "8 (7272) 44 54 77"
+        },
+        {
+            "name": "Пирамида",
+            "coordinates": {
+                "lat": 54.8604577,
+                "lng": 69.1653437
+            },
+            "address": "Улица Батыра Баяна, 11, Петропавловск 150000, Казахстан",
+            "opening_hours": [
+                "Понедельник: 8:00–12:00",
+                "Вторник: 8:00–12:00",
+                "Среда: 8:00–12:00",
+                "Четверг: 8:00–12:00",
+                "Пятница: 8:00–12:00",
+                "Суббота: 8:00–12:00",
+                "Воскресенье: 8:00–12:00"
+            ],
+            "contacts": "8 (7152) 33 55 04"
+        }
+    ]
 }
